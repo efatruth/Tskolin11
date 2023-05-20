@@ -1,0 +1,34 @@
+Interconnectory devices =  Networks that connect different network resource (routers, bridges, repeaters and gateways)
+Network Media = Wires, fibers, waves that are used to transmit data signals from source to destination.
+End devices = Computers, Servers, printers
+ISP = Internet Service Providers
+LAN = Local Area Network
+WAN = Wide Area Network
+MAN = Meteropolitian Area Network (Smaller than WAN)
+PAN = Personal Area Network (Bluetooth, Wireless USB)
+Internet = Network of Networks
+Router = Allows End devices to access remote devices
+Switch = Allows multiple computers to access the router at the same time.
+Default Gateway = Lets you connect out of your LAN Area.
+DHCP = Dynamic Host Configuration Protocol (Distributes unique IP Addresses to End hosts) 
+DNS = Domain Name System, Translates names to ip addresses and vise versa (amazon.com into decimal).
+b/s, Gb/s, kb/s = Bites per second, used to measure speed of bits distributed per second.
+ping = Used to check if a host is available/online.
+Latency = Time that packets take to get to the pc and come back. (u go on google.com and the time that the page pulls up is the latency)
+Throughput = Speed of bits/data/electricity moving inside a wire. (100 Gbps)
+Bandwith = Maximum amount of bits that can go through a cable.
+Peer to Peer = 1 to 1 communication between hosts (PC wanting to print and connects via printer).
+Apache = Lets you make a web server.
+Samba = Lets you make a file server.
+Email client = Gmail, Hotmail, Yahoo. Servers that let you access an email server.
+Post fix application = Gives ability to host an email server.
+tracert, traceroute(on linux) = Command executed in cmd to trace the path that the packets take in order to reach their router destination
+ICMP = Internet Control Management Protocol (???????????????????????????)
+AAA = Authentication, Authorization and Accounting = Checks your creditentials and sends an OK-signal to file servers if they match.
+Scalability = Can not add or modify devices.
+/24 (ip address) = First 24 bits turned on (255.255.255.0 in binary).
+Encryption = Sends data that is unreadable, which makes it more secure.
+Public IP addresses: IP addresses assigned by user's internet provider.
+Private IP addresses: 192.168.x.x, 172.16.x.x, 10.x.x.x
+Straight through cable: Used to connect End devices together.
+Cross over cable: Used to connect the Same devices (except PC to Cable).

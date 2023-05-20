@@ -1,0 +1,15 @@
+3. Leiðréttu eftirfarandi kóða þannig að hann virki (ekki syntax villa).
+
+    function checkUsername() {
+      var target = e.target;
+    }
+    var el = document.getElementById('username');
+    el.addEventListener('blur', checkUsername, false);
+    
+    
+    ---- RÉTTI KÓÐINN ----
+    var el = document.getElementById('username')
+    
+    el.addEventListener('blur', function(){
+      var target = el.target;
+    }, false)

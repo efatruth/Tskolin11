@@ -1,0 +1,578 @@
+
+
+Press RETURN to get started!
+
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/1, changed state to up
+
+%LINK-5-CHANGED: Interface Serial0/0/0, changed state to up
+
+%LINK-5-CHANGED: Interface Serial0/0/1, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0/0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0/0/1, changed state to up
+
+
+HQ>en
+HQ#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+HQ(config)#router rip
+HQ(config-router)#version 2
+HQ(config-router)#network 172.16.0.0
+HQ(config-router)#network 172.16.64.0
+HQ(config-router)#network 192.168.0.0
+HQ(config-router)#
+HQ(config-router)# passive-interface g0/0
+HQ(config-router)# passive-interface g0/1
+HQ(config-router)# passive-interface s0/0/1
+HQ(config-router)#end
+HQ#
+%SYS-5-CONFIG_I: Configured from console by console
+
+
+
+
+
+
+
+
+
+HQ con0 is now available
+
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+
+
+
+
+
+HQ>en
+HQ#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+HQ(config)#ip route 0.0.0.0.0.0.0.0 192.168.0.0
+                    ^
+% Invalid input detected at '^' marker.
+	
+HQ(config)# ip route 0.0.0.0.0.0.0.0 192.168.0.0
+                     ^
+% Invalid input detected at '^' marker.
+	
+HQ(config)# ip route 0.0.0.0.0.0.0.0 192.168.0.0 S0/0/1
+                     ^
+% Invalid input detected at '^' marker.
+	
+HQ(config)#ip route 0.0.0.0.0.0.0.0  S0/0/1
+                    ^
+% Invalid input detected at '^' marker.
+	
+HQ(config)#ip route 0.0.0.0.0.0.0.0 se 0/0/1
+                    ^
+% Invalid input detected at '^' marker.
+	
+HQ(config)#
+
+
+Branch>en
+Branch#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Branch(config)#router rip
+Branch(config-router)#version 2
+Branch(config-router)#
+Branch(config-router)#network 192.168.0.0  
+Branch(config-router)#network 172.16.128.0  
+Branch(config-router)#
+Branch(config-router)#
+Branch(config-router)# passive-interface g0/0
+Branch(config-router)# passive-interface g0/1
+Branch(config-router)#end
+Branch#
+%SYS-5-CONFIG_I: Configured from console by console
+
+
+
+
+
+
+
+
+
+Branch con0 is now available
+
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/1, changed state to up
+
+%LINK-5-CHANGED: Interface Serial0/0/0, changed state to up
+
+%LINK-5-CHANGED: Interface Serial0/0/1, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0/0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0/0/1, changed state to up
+
+
+HQ>en
+HQ#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+HQ(config)#ip route 0.0.0.0 0.0.0.0 192.186.0.2
+HQ(config)#
+HQ(config)#router rip 
+HQ(config-router)#no auto-summary
+HQ(config-router)#
+HQ(config-router)#default-information originate
+HQ(config-router)#
+
+Branch>en
+Branch#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Branch(config)#ip route
+% Incomplete command.
+Branch(config)#ip rip
+                   ^
+% Invalid input detected at '^' marker.
+	
+Branch(config)#ip router rip
+                       ^
+% Invalid input detected at '^' marker.
+	
+Branch(config)#router rip
+Branch(config-router)#no auto-summary
+Branch(config-router)#
+Branch(config-router)#deault-information originate
+                        ^
+% Invalid input detected at '^' marker.
+	
+Branch(config-router)#default-information originate
+Branch(config-router)#
+
+
+
+Readonly ROMMON initialized
+
+program load complete, entry point: 0x80803000, size: 0x1b340
+program load complete, entry point: 0x80803000, size: 0x1b340
+
+IOS Image Load Test
+___________________
+Digitally Signed Release Software
+program load complete, entry point: 0x81000000, size: 0x3bcd3d8
+Self decompressing the image :
+######################### [OK]
+Smart Init is enabled
+smart init is sizing iomem
+                  TYPE      MEMORY_REQ
+           HWIC Slot 0      0x00200000
+           HWIC Slot 1      0x00200000
+           HWIC Slot 2      0x00200000
+           HWIC Slot 3      0x00200000     Onboard devices &
+          buffer pools      0x022F6000
+-----------------------------------------------
+                TOTAL:      0x042F6000
+Rounded IOMEM up to: 70Mb.
+Using 6 percent iomem. [70Mb/512Mb]
+
+              Restricted Rights Legend
+
+Use, duplication, or disclosure by the Government is
+subject to restrictions as set forth in subparagraph
+(c) of the Commercial Computer Software - Restricted
+Rights clause at FAR sec. 52.227-19 and subparagraph
+(c) (1) (ii) of the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+
+           cisco Systems, Inc.
+           170 West Tasman Drive
+           San Jose, California 95134-1706
+
+Cisco IOS Software, C2900 Software (C2900-UNIVERSALK9-M), Version 15.1(4)M5, RELEASE SOFTWARE (fc2)Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2007 by Cisco Systems, Inc.
+Compiled Wed 18-Jul-07 04:52 by pt_team
+Image text-base: 0x2100F918, data-base: 0x24729040
+
+This product contains cryptographic features and is subject to United
+States and local country laws governing import, export, transfer and
+use. Delivery of Cisco cryptographic products does not imply
+third-party authority to import, export, distribute or use encryption.
+Importers, exporters, distributors and users are responsible for
+compliance with U.S. and local country laws. By using this product you
+agree to comply with applicable laws and regulations. If you are unable
+to comply with U.S. and local laws, return this product immediately.
+
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+Cisco CISCO2911/K9 (revision 1.0) with 491520K/32768K bytes of memory.
+Processor board ID FTX152400KS
+3 Gigabit Ethernet interfaces
+2 Low-speed serial(sync/async) network interface(s)
+DRAM configuration is 64 bits wide with parity disabled.
+255K bytes of non-volatile configuration memory.
+249856K bytes of ATA System CompactFlash 0 (Read/Write)
+
+Press RETURN to get started!
+
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/1, changed state to up
+
+%LINK-5-CHANGED: Interface Serial0/0/0, changed state to up
+
+%LINK-5-CHANGED: Interface Serial0/0/1, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0/0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0/0/1, changed state to up
+
+
+HQ>en
+HQ#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+HQ(config)#ip access-list standard HQServer
+HQ(config-std-nacl)#deny 172.16.144.0 0.0.15.255
+HQ(config-std-nacl)#permit any
+HQ(config-std-nacl)#exit
+HQ(config)#do show run
+Building configuration...
+
+Current configuration : 1198 bytes
+!
+version 15.1
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname HQ
+!
+!
+!
+!d
+!
+!
+!
+!
+ip cef
+no ipv6 cef
+!
+!
+!
+!
+license udi pid CISCO2911/K9 sn FTX1524O3DD
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface GigabitEthernet0/0
+ ip address 172.16.127.254 255.255.192.0
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0/1
+ ip address 172.16.63.254 255.255.192.0
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0/2
+ no ip address
+ duplex auto
+ speed auto
+ shutdown
+!
+interface Serial0/0/0
+ ip address 192.168.0.1 255.255.255.252
+ clock rate 2000000
+!
+interface Serial0/0/1
+ ip address 64.104.34.2 255.255.255.252
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+router rip
+ version 2
+ passive-interface GigabitEthernet0/0
+ passive-interface GigabitEthernet0/1
+ passive-interface Serial0/0/1
+ network 172.16.0.0
+ network 192.168.0.0
+ default-information originate
+ no auto-summary
+!
+ip classless
+ip route 0.0.0.0 0.0.0.0 192.186.0.2 
+!
+ip flow-export version 9
+!
+!
+ip access-list standard HQServer
+ deny 172.16.144.0 0.0.15.255
+ permit any
+!
+!
+!
+!
+!
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
+
+
+HQ(config)# int g0/1
+HQ(config-if)#ip acc
+HQ(config-if)#ip access-group HQServer out
+HQ(config-if)#
+
+
+Branch(config-std-nacl)#no deny 172.16.0.0 0.0.63.255
+Branch(config-std-nacl)#no permit any
+Branch(config-std-nacl)#deny 172.16.64.0 0.0.63.255
+Branch(config-std-nacl)#permit any
+Branch(config-std-nacl)#exit
+Branch(config)#int g0/0
+
+
+Branch>en
+Branch#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Branch(config)#ip access-list standard BranchServer
+Branch(config-std-nacl)#exit
+Branch(config)#int g0/0
+Branch(config-if)#ip address  172.16.159.254 255.255.240.0
+Branch(config-if)#
+Branch(config-if)#int g0/1
+Branch(config-if)#ip address  172.16.143.254 255.255.240.0
+Branch(config-if)#
+
+Branch>en
+Branch#config t
+
+
+
+
+
+
+
+
+Branch con0 is now available
+
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Branch>en
+Branch#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Branch(config)#ip access-list standard BranchServer
+Branch(config-std-nacl)#exit
+Branch(config)#int g0/0
+Branch(config-if)#ip address  172.16.159.254 255.255.240.0
+Branch(config-if)#
+Branch(config-if)#int g0/1
+Branch(config-if)#ip address  172.16.143.254 255.255.240.0
+Branch(config-if)#
+
+
+
+
+
+
+
+
+Branch con0 is now available
+
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Branch>en
+Branch#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Branch(config)#int g0/0
+Branch(config-if)#shut
+
+Branch(config-if)#
+%LINK-5-CHANGED: Interface GigabitEthernet0/0, changed state to administratively down
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0, changed state to down
+no shut
+
+Branch(config-if)#
+%LINK-5-CHANGED: Interface GigabitEthernet0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0, changed state to up
+
+Branch(config-if)#do show run
+Building configuration...
+
+Current configuration : 1146 bytes
+!
+version 15.1
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Branch
+!
+!
+!
+!
+!
+!
+!
+!
+ip cef
+no ipv6 cef
+!
+!
+!
+!
+license udi pid CISCO2911/K9 sn FTX1524OY7F
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface GigabitEthernet0/0
+ ip address 172.16.159.254 255.255.240.0
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0/1
+ ip address 172.16.143.254 255.255.240.0
+ ip access-group BranchServer out
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0/2
+ no ip address
+ duplex auto
+ speed auto
+ shutdown
+!
+interface Serial0/0/0
+ ip address 192.168.0.2 255.255.255.252
+!
+interface Serial0/0/1
+ no ip address
+ clock rate 2000000
+ --More-- 
+
+
+
+
+
+
+
+
+Branch con0 is now available
+
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+
+
+

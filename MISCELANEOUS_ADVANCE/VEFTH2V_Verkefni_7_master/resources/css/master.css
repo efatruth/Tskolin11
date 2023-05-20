@@ -1,0 +1,388 @@
+body {
+  background-color: tomato;
+}
+
+.head {
+  background-color: tomato;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+  text-align: center;
+  height: auto;
+  color: #fff;
+}
+
+.head div {
+  margin-bottom: .4em;
+}
+
+.logo-place {
+  text-align: left;
+  margin: 0;
+}
+
+.info-logo {}
+
+.info-logo img {
+  width: 80px;
+}
+
+/* Search Bar */
+
+.search-place {
+  display: flex;
+  align-items: center;
+}
+
+.search {
+  margin: 0 auto;
+}
+
+.search span {
+  font-size: 100%;
+}
+
+.search-caption {
+  display: none;
+}
+
+.box {
+  display: inline-block;
+}
+
+.container-4 {
+  overflow: hidden;
+  width: 200px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.container-4 input#search {
+  width: 200px;
+  height: 35px;
+  background: #f4f4f4;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: #565554;
+  padding-left: 15px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.container-4 input#search::-webkit-input-placeholder {
+  color: #363635;
+  opacity: .4;
+}
+
+.container-4 input#search:-moz-placeholder {
+  /* Firefox 18- */
+  color: #363635;
+  opacity: .4;
+}
+
+.container-4 input#search::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #363635;
+  opacity: .4;
+}
+
+.container-4 input#search:-ms-input-placeholder {
+  color: #363635;
+  opacity: .4;
+}
+
+.container-4 button.icon {
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomright: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: none;
+  background: #f4f4f4;
+  height: 35px;
+  width: 50px;
+  color: #bebbbb;
+  opacity: 0;
+  font-size: 10pt;
+  -webkit-transition: all .55s ease;
+  -moz-transition: all .55s ease;
+  -ms-transition: all .55s ease;
+  -o-transition: all .55s ease;
+  transition: all .55s ease;
+}
+
+.container-4:hover button.icon, .container-4:active button.icon, .container-4:focus button.icon {
+  outline: none;
+  opacity: 1;
+  margin-left: -50px;
+}
+
+.container-4:hover button.icon:hover {
+  background: #565554;
+}
+
+/* /Search Bar */
+
+.links-place {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  background-color: grey;
+  width: 100%;
+  margin-bottom: 0 !important;
+}
+
+.links-place ul {
+  list-style: none;
+  font-size: 1em;
+  margin: 0;
+  padding-left: 0;
+}
+
+.links-place ul li {
+  margin-bottom: 0.3em;
+}
+
+.links-place ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.wrapper {}
+
+.shop-container {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  color: #fff;
+}
+
+.side-panel {
+  background-color: tomato;
+  text-align: center;
+  /*border-top: 1px solid #000;*/
+  padding-top: 2em;
+}
+
+.side-panel ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.side-panel ul li {
+  margin: 0 3em .4em 3em;
+  border-bottom: 1px solid #fff;
+}
+
+.side-panel ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.product-panel {
+  background-color: gray;
+}
+
+.grid-panel {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid-panel div {
+  height: auto;
+  width: auto;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  margin: 1em;
+  color: #010101;
+  text-align: center;
+}
+
+.grid-panel div h3 a {
+  color: #000 !important;
+}
+
+.add-to-cart a {
+  background-color: tomato !important;
+  border-radius: 5px;
+  padding: .3em;
+  color: #fff;
+}
+
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+  color: #010101;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: 0.5em 0 0.75em;
+}
+
+table tr {
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 0.35em;
+}
+
+table td, table th {
+  padding: 0.625em;
+  text-align: center;
+}
+
+table th {
+  font-size: 0.85em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+tr:nth-child(odd) {
+  background: #ededed;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+  table caption {
+    font-size: 1.3em;
+  }
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: 0.625em;
+  }
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: 0.8em;
+    text-align: right;
+  }
+  table td:before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-right: 1em;
+  }
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+.login-view {
+  background-color: lightgrey;
+  width: 60%;
+  margin: 0 auto;
+  border-radius: 10px;
+  text-align: center;
+  padding: 1em;
+}
+
+.login-view label {
+  display: block;
+  margin: 1em;
+}
+
+.footer-content {
+  background-color: tomato;
+  color: #f4f4f4;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 1.5em;
+  margin-bottom: 3em;
+}
+
+.footer-content .github {
+  text-align: center;
+}
+
+.footer-content .github div img {
+  width: 25px;
+  height: auto;
+}
+
+.footer-content .github a {
+  text-decoration: none;
+  color: #f4f4f4;
+}
+
+.footer-content .signature {
+  text-align: right;
+  padding-top: 3em;
+}
+
+.footer-content .signature p {
+  padding: 0;
+  margin: 0;
+}
+
+/* stærri skjáir */
+
+@media screen and (min-width: 37.5em) {
+  .grid-panel {}
+}
+
+@media screen and (min-width: 48em) {
+  .head {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .grid-panel {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .footer-content {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .links-place {
+    text-align: right;
+    position: relative;
+    /*bottom: auto;*/
+    background-color: inherit;
+    width: auto;
+    margin-right: 2em;
+  }
+  .head {
+    background-color: tomato;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    padding: 1em;
+    text-align: center;
+    height: auto;
+    color: #fff;
+  }
+  .logo-place {
+    margin-left: 3em;
+  }
+  .search-caption {
+    display: inline-block;
+  }
+  .footer-content {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .grid-panel {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}

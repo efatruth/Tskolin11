@@ -1,0 +1,186 @@
+body {
+  background-color: #DB504A;
+}
+
+.head {
+  background-color: #373F51;
+  width: 100%;
+  text-align: center;
+  padding: 1em 0 1em 0;
+}
+
+.head-title {
+  font-family: arial;
+  text-transform: uppercase;
+  font-size: 3.4em;
+  color: #f4f4f4;
+}
+
+/* Search Bar */
+
+.search-block {
+  display: flex;
+  align-items: center;
+  padding: 3em 0 3em 0;
+}
+
+.search {
+  margin: 0 auto;
+}
+
+.search span {
+  font-size: 100%;
+}
+
+.search-caption {
+  display: none;
+}
+
+.box {
+  display: inline-block;
+}
+
+.container-4 {
+  overflow: hidden;
+  width: 200px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.container-4 input#search {
+  width: 200px;
+  height: 35px;
+  background: #f4f4f4;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: #565554;
+  padding-left: 15px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.container-4 input#search::-webkit-input-placeholder {
+  color: #363635;
+  opacity: .4;
+}
+
+.container-4 input#search:-moz-placeholder {
+  /* Firefox 18- */
+  color: #363635;
+  opacity: .4;
+}
+
+.container-4 input#search::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #363635;
+  opacity: .4;
+}
+
+.container-4 input#search:-ms-input-placeholder {
+  color: #363635;
+  opacity: .4;
+}
+
+.container-4 button.icon {
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomright: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: none;
+  background: #f4f4f4;
+  height: 35px;
+  width: 50px;
+  color: #bebbbb;
+  opacity: 0;
+  font-size: 10pt;
+  -webkit-transition: all .55s ease;
+  -moz-transition: all .55s ease;
+  -ms-transition: all .55s ease;
+  -o-transition: all .55s ease;
+  transition: all .55s ease;
+}
+
+.container-4:hover button.icon, .container-4:active button.icon, .container-4:focus button.icon {
+  outline: none;
+  opacity: 1;
+  margin-left: -50px;
+}
+
+.container-4:hover button.icon:hover {
+  background: #565554;
+}
+
+/* /Search Bar */
+
+.actions {
+  text-align: center;
+  margin-top: 1em;
+  color: #fff;
+}
+
+.actions a {
+  color: #fff;
+}
+
+.register_car {
+  margin-top: 2em;
+  color: #fff;
+}
+
+.register_car fieldset {
+  width: 20em;
+  margin: auto;
+  text-align: center;
+}
+
+.register_car label {
+  display: block;
+  padding-bottom: .3em;
+}
+
+.car-panel {
+  max-width: 60em;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.car-panel div {
+  background-color: #fff;
+  margin: 1em;
+  border-radius: 10px;
+  padding: 1em;
+  display: flex;
+  flex-flow: column;
+}
+
+.car-panel div span {
+  font-weight: 600;
+}
+
+.car-panel div {}
+
+.car-panel div a {
+  color: #000;
+  text-align: center;
+}
+
+.car-result {
+  width: 20em;
+  margin: auto;
+  margin-top: 2em;
+}
+
+.car-result div {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 1em;
+}
+
+.car-result div span {
+  font-weight: 600;
+}

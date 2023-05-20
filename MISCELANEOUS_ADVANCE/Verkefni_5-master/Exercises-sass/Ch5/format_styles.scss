@@ -1,0 +1,23 @@
+/*
+ * SASS allows style rules to be nested inside of other rules, which causes
+ * the nested rules to only apply within the outer rule's selector
+ */
+
+$textColor: #fff;
+$customHoverColor: #48638e;
+$bAmount: 40%;
+$tAmount: 80%;
+$tColor: #d11796;
+
+.list1 li {
+  background-color: $customHoverColor;
+  color: $textColor;
+  &:hover {
+    background-color: lighten($customHoverColor, $bAmount);
+    color: darken($textColor, $tAmount);
+  }
+}
+
+header h2:hover {
+  color: invert($tColor);
+}

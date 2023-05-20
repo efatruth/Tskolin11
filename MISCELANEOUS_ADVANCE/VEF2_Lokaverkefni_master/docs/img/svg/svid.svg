@@ -1,0 +1,36 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g stroke="null" style="vector-effect: non-scaling-stroke;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g stroke="null" id="svg_29">
+   <g stroke="null" transform="matrix(1.581736403845102,0,0,1.3972453160840062,-7212.364118706924,-5731.720355113951) " id="svg_26">
+    <title stroke="null" transform="translate(29.08196258544922,-1.4313879013061523) translate(-4.70902156829834,40.078861236572266) translate(-9.41804313659668,-5.817744255065918) translate(-89.1412353515625,63.52261734008789) translate(9.094947017729282e-13,4.547473508864641e-13) translate(-174.61070251464844,104.12791442871094) translate(0,-4.547473508864641e-13) translate(-546.7451171875,283.77362060546875) translate(5248.02490234375,0) translate(0,3584.5) ">background</title>
+    <rect stroke="null" x="4451.482745" y="4067.753881" width="582" height="402" id="svg_24" fill="none"/>
+    <g stroke="null" id="svg_23" display="none">
+     <rect stroke="null" id="svg_27" width="580" height="400" x="4452.482745" y="4068.753881" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(1.581736403845102,0,0,1.3972453160840062,-7212.364118706924,-5731.720355113951) " id="svg_28">
+    <title stroke="null" transform="translate(29.08196258544922,-1.4313879013061523) translate(-4.70902156829834,40.078861236572266) translate(-9.41804313659668,-5.817744255065918) translate(-89.1412353515625,63.52261734008789) translate(9.094947017729282e-13,4.547473508864641e-13) translate(-174.61070251464844,104.12791442871094) translate(0,-4.547473508864641e-13) translate(-546.7451171875,283.77362060546875) translate(5248.02490234375,0) translate(0,3584.5) ">Layer 1</title>
+    <rect stroke="#000" fill="#c0c0c0" stroke-width="1.5" x="4577.982745" y="4137.353881" width="329" height="128" id="svg_22"/>
+    <rect stroke="#000" fill="#ff0000" stroke-width="1.5" stroke-opacity="null" x="4660.482745" y="4109.353881" width="164" height="28" id="svg_21"/>
+    <rect stroke="#000" fill="#ffd700" stroke-width="1.5" stroke-opacity="null" x="4678.892566" y="4137.475257" width="128" height="56" id="svg_20"/>
+    <rect stroke="#000" fill="#cd7f32" stroke-width="1.5" stroke-opacity="null" x="4577.482736" y="4262.353881" width="330.000005" height="112" id="svg_19"/>
+    <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="4711.771808" y="4086.151311" id="svg_18" font-size="24" font-family="Euphoria, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1,0,0,1.03789222240448,0,-4.8123122453689575) ">Silver</text>
+    <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="4717.138995" y="4175.353881" id="svg_17" font-size="24" font-family="Euphoria, sans-serif" text-anchor="start" xml:space="preserve">Gold</text>
+    <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="4712.982745" y="4130.353881" id="svg_16" font-size="24" font-family="Euphoria, sans-serif" text-anchor="start" xml:space="preserve">Stage</text>
+    <path stroke="#000" fill="#fff" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" opacity="0.5" d="m4461.982745,4453.353881l-111.5,-4.6" id="svg_15"/>
+    <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" x="4704.46712" y="4319.353881" id="svg_14" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Bronze</text>
+   </g>
+  </g>
+ </g>
+</svg>

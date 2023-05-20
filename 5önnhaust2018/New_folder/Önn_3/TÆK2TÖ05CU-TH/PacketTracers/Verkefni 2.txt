@@ -1,0 +1,51 @@
+Assign IP Address to Switch/(Router?):
+
+Switch>en
+Switch#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#int vlan 1
+Switch(config-if)#ip address *IP ADDRESS *MAC ADDRESS
+Switch(config-if)#no shutdown
+____________________________________________________________________________________
+Assign hostname to switch/terminal:
+
+Switch(config)#hostname *HOSTNAME
+
+____________________________________________________________________________________
+Assign router password:
+
+Router>en
+Router#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#line con 0
+Router(config-line)#password *PASSWORD
+Router(config-line)#login
+Router(config-line)#exit
+_____________________________________________________________________________________
+Assign EXEC password:
+ 
+Router#config t
+enable secret *PASSWORD
+_____________________________________________________________________________________
+Change MOTD:
+
+R1(config)#banner motd # 
+******************************************
+PUT MOTD MESSAGE HERE. YOU CAN SKIP THE ASTERISKS IF YOU'D LIKE.
+******************************************
+#
+_____________________________________________________________________________________
+Save configuration:
+
+Switch>enable
+Switch#copy running-config startup-config
+_____________________________________________________________________________________
+
+
+
+
+
+
+
+* = Input your desired value here.
+** = You can write as many lines as you want between the hashtags. Probably not a good idea to use hashtags in the messages.

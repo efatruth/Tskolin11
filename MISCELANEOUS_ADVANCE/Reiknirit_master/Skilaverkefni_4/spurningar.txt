@@ -1,0 +1,15 @@
+1a.
+Þetta fall raðar lista eftir stærð.
+
+1b.
+Reikniritið er kallað Counting Sort.
+
+1c.
+Flækjustigið er O(n+k).
+
+4a.
+Linear Search er 0(n) því það tekur sinn tíma til að finna elementið sem þú vilt. Byrjar frá fyrsta index svo fer á annað index o.s.frv.
+
+4b
+Binary Search er 0(log(n)) því það fer ekki í gegnum hvert stak í listanum. Það byrjar í miðjunni og checkar hvort talan sem þú ert að 
+leita af er stærri eða minni. Svo fer hann hægri eða vinstri eftir aðstæðum. 

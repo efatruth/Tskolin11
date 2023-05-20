@@ -1,0 +1,38 @@
+// Kypler L. Espiritu
+// 2. feb 2018
+
+
+// Dæmi A
+function createShip(){
+    this.name = "Spaceracer";
+    this.life = 10;
+    this.showName = function(){ // Sýna nafn
+        console.log(this.name);
+    };
+}
+
+var geimflaug_1 = new createShip(); 
+var geimflaug_2 = new createShip();
+var geimflaug_3 = new createShip();
+
+// Dæmi B
+geimflaug_1.name = "Racer"; // Nýtt nafn
+geimflaug_1.showName();
+
+// Dæmi C
+createShip.prototype.speed = 5;
+createShip.prototype.increaseSpeed = function(){this.speed += 1};// Function sem hækkar hraða(allir fáa þetta)
+createShip.prototype.fly = function(){console.log(this.speed)}; // Function sem sýnir hraða(allir fáa þetta)
+createShip.prototype.showLife = function(){console.log(this.life)}; // Function sem sýnir líf(allir fáa þetta)
+
+// Dæmi D
+var geimflaug_4 = new createShip();
+geimflaug_4.damage = function(){this.life -= 1}; // Function sem lækkar líf (geimflaug 4 er bara með)
+
+geimflaug_4.showLife(); // Sýna líf geimflaug 4 áður
+geimflaug_4.damage(); // Geimflaug 4 missir líf
+geimflaug_4.showLife(); // Sýna líf geimflaug 4 eftir
+
+
+
+

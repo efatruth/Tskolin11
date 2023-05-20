@@ -1,0 +1,16 @@
+Essentials:
+	Doesn't hit walls
+	Autonomous
+
+1.  Robot that picks up different coloured balls and sort them into seperate boxes (QR codes?)
+2.  Robot that creates pictures/shapes with differently coloured balls/cubes
+3.  livestreaming video
+4.  Robot that follows lines
+5.  robot that follows traffic laws like a car. Stops when sign is red, turns in direction of arrow, etc. Follows lines that are the roads. Can turn on controller.
+    crash prevention (ultrasonic range finder). Can recognize shapes and colors. Course leads to object that it picks up and delivers onto a platform.
+6.  Robot that stacks cubes in a specific order by color or creates 3d models with them.
+7.  1 wheel robot that balances itself
+8.  2 wheel robot that balances itself
+9.  Robot that can go over hills. Could use a variety of different methods to do this. Can also go down (lines, color of hill, gyroscope).
+10. Robot that can be controlled through the internet using a keyboard. Livestreams video.
+11. Crane robot that can spin its body/arm.

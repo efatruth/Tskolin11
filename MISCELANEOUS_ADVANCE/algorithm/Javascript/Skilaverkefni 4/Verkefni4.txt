@@ -1,0 +1,67 @@
+﻿Verkefni 4.1:
+
+// Along A. Loftsson
+console.log("Dæmi A.\n");
+function Geimflaug() {
+    this.name = "Spaceracer";
+    this.life = 10;
+    this.showname = function() {
+	    console.log("This is " + this.name + '.');
+    };
+}
+
+var geimflaug1 = new Geimflaug();
+var geimflaug2 = new Geimflaug();
+var geimflaug3 = new Geimflaug();
+console.log(geimflaug1.name);
+console.log(geimflaug1.life);
+geimflaug1.showname();
+
+console.log("\nDæmi B.\n");
+geimflaug1.name = "Ballbuster";
+console.log(geimflaug1.name);
+
+console.log("\nDæmi C.\n");
+Geimflaug.prototype.speed = 5;
+Geimflaug.prototype.fly = function(){console.log(this.speed += 1)};
+geimflaug1.fly();
+
+console.log("\nDæmi D.\n");
+var geimflaug4 = new Geimflaug();
+geimflaug4.damage = function(){this.life -= 1;};
+console.log("Before 'damage()' is used: " + geimflaug4.life);
+geimflaug4.damage();
+console.log("After 'damage()' is used: " + geimflaug4.life);
+_______________________________________________________________________
+Verkefni 4.2:
+
+Í sýnidæminu "Teacher" er búið til constructor með nafn, aldur, kyn o.fl. Inn í smiðnum er "call()" fall sem leyfir þér (eða constructer-inum) að kalla á fall annars staðar. Í þessu tilfelli er það constructer-inn "Person". Þá er fyrst set inn "this" til þess að skilgreina því að keyra gildin hjá Person þegar þú ert að búa til Teacher. Svo er sett inn öll gildi fyrir Person inn í Teacher.
+
+"this.subject = subject;" er bara þarna til þess að búa til nýtt property fyrir "Teacher" þar sem aðrir með "Person" constructer-inn munu ekki hafa.
+_______________________________________________________________________
+Verkefni 4.3:
+
+Class er eiginlega það sama og að erfa með prototype, nema það er aðeins öðruvísi. Það er sérstakt fall þar sem þú getur notað function expressions og function declarations. Það hefur tvo syntax-a: class expressions og class declarations.
+
+Dæmi: //Laga
+ 
+class Name {
+  constructor(firstname, lastname, age) {
+    this.firstname = firstname;
+    this.lastname = lastname;
+    this.age = age;
+  }
+
+  get full() {
+    return this.fullname();
+  }
+
+  fullName() {
+    return this.firstname + " " + this.lastname;
+  }
+}
+
+const person = new Name("An", "Gina", 115);
+
+console.log(person.full);
+

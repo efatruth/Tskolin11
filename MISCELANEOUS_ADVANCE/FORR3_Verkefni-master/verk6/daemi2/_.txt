@@ -1,0 +1,10 @@
+2. Hvað gerir eftirfarandi kóði? 
+    let link = document.body.getElementsByTagName("a")[0];
+    console.log(link.href);
+   
+   Það skilar frá sér link-num sem er geymt inn í "href".
+   
+   Dæmi:
+   <a href="https://www.facebook.com/"></a>
+   Þegar þú slærð inn JavaScript kóðan uppi skilar það: "https://www.facebook.com/"
+   

@@ -1,0 +1,6 @@
+1. Callback fall er fall sem er sett inn í annað fall sem breyta, og er notað/beitt inn í fallinu til þess að klára aðgerð.
+
+2. 
+
+
+Event Loop. This is a constantly running process that checks if the call stack is empty.

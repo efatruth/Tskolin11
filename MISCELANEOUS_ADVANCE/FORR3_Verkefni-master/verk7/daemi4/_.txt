@@ -1,0 +1,7 @@
+4. Event flow, Hvað þýðir false í Event Listener?
+   elUsername.addEventListener('blur' , function() {
+      checkUsername(5);
+   }, false)
+   
+   - False þýðir events byrja á "Child" elements áður en það kemur að "Parent" elements (Það 'búbblast' upp). Hins vegar True þá byrjar 
+     events-in á "Parent" svo niður á "Child".

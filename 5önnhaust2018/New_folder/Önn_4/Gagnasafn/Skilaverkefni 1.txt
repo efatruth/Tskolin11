@@ -1,0 +1,8 @@
+﻿1.
+customer(accountId INT PRIMARY KEY, lastName VARCHAR(30) NOT NULL, firstName VARCHAR(30), shippingAddress INT FOREIGN KEY, emailAddress VARCHAR(40), creaditCard FOREIGN KEY);
+shippingAddresses(Street VARCHAR(30), City VARCHAR(30), State VARCHAR(30), Zipcode INT PRIMARY KEY);
+creditCards(type VARCHAR(25), accountNumber INT PRIMARY KEY, expiration DATE);
+
+
+
+https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad?hl=en

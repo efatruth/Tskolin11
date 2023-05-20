@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a2c1431-5b1f-4f7f-a796-ef5f066e645d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/skil5/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/views/index.tpl" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/ÆFINGAVERKEFNI/Undirbúningur fyrir Tímaverkefni 1_forCU/Undirbúningur fyrir Tímaverkefni 1_forCU.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil55/Utsyn/signup.tpl" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/skilaverk3/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun1-Listar og strengir/docx/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/skilaverk1/playskil1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil5/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil5/views/index.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/views/base.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profani/postnumer.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 4/skilaverkefni4_klasasafnið.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/ÆFINGAVERKEFNI/Æfingaverkefni_klasar/Æfingaverkefni_klasar.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/skilaverk3/Klasi.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/Upprifjun/Upprifjun 3 - skráarvinnsla 1C danSkra/skra_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/public/skeleton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/timaverkefni2_prof/timaverkefni2_prof.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/views/vara.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/Skilaverkefni 6_skraning.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/Regex_nýr/Regex_nýr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/lokaverkefni/lokaverkefni.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni7/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/timaverkefni1_prof.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profani/profani.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/bottle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil5/bottle.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/skilaverk1/skilaverk1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/testing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/timaverkefni3ökupróf/timaverkefni3ökupróf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/Skilaverkefni5_Form/stripping_string.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil5/views/submit.tpl" />
+      <change type="NEW" beforePath="" afterPath="H:/4önn2018/FORR2F_repeated_course/Tímaverkefni2/Tímaverkefni2_dict.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/skilaverk4/Erfdir_æfingaverkefni.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/skil5/public/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/skilaverkefni 3/lagerhlutir.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil5/public/skeleton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda_anna.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil5/views/base.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni2/Try_Except/Skil22_test_fraFou.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/skil5/views/index.tpl" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/ÆFINGAVERKEFNI/Undirbúningur fyrir Tímaverkefni 1_forCU/Undirbúningur fyrir Tímaverkefni 1_forCU.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun1-Listar og strengir/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/Skilaverkefni5_Form/views/signup_success.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/public/Thumbs.db.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/lokaverkefni/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="H:/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil5/public/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/public/thumb.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/Skilaverkefni5_Form/views/signup_form.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/v7_login_db_sessions/bottle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil5/Procfile" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/skilaverk4/skilaverk4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/skilaverk1/skilaverkk1 frm Along/skilaverkefni1_lausn fra kennara.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni7/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/skil5/public/skeleton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profani/lagerhlutir.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Lokapygame/safnarinn/safnarinn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/public/2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun2 – Dictionary.py/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/ÆFINGAVERKEFNI/Æfingaverkefni_föll_2_Fallarallý/Æfingaverkefni_föll_2_Fallarallý.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/ÆFINGAVERKEFNI/Undirbúningur fyrir Tímaverkefni 1_forCU/skrana.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/skil5/views/base.tpl" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/ÆFINGAVERKEFNI/Æfingaverkefni_föll_2_Fallarallý/Fallarallý.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Lokapygame/safnarinn/desktop.ini" />
+      <change type="NEW" beforePath="" afterPath="H:/4önn2018/FORR2F_repeated_course/Skilaverkefni4/Timaverkefni3.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/Upprifjun/Upprifjun 2 – dictionary 1B daniDict/dictest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Upprifjun/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil55/Utsyn/index.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni7/bottle.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re/skilaverk1/skilver1test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni7/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profani/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Lokapygame/safnarinn/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FORR2HF05CU/Lokapygame/FORR2GL05DU_Skilaverkefni_1_Vor_2018.pdf" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/.idea/6önn2019_fra_jan.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Lokaverkefni_h18/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil55/bottle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/public/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil5/requirement.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/skil55/app.py" />
+      <change type="NEW" beforePath="" afterPath="H:/6önn2019_fra_jan/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/skil5/views/submit.tpl" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/leturfræði/leturfræði.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/hönnun vefsíðu.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/bin/Debug/FOR1A3U_SKIL5_H2.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/FOR1A3U_SKIL5_H2.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/modelbox/modelbox.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/skilaverkefni3.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/definiy_final_essay_2.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/skilaverkefni3.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/maplocation/maplocation.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/bin/Debug/verkefni_6.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/FOR1A3U_modulus_H2.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/bin/Debug/verkefni_6.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/bin/Debug/verkefni_6.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/skilaverkefni3.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/project" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/FOR1A3U_synidæmi1.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/bin/Debug/æfing verkefni 7.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/bin/Debug/FOR1A3U_skila verkefni_4.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/bakgrunnslitir/efnisyfirlit.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/FOR1A3U_synidæmi1.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/gagna/Livinus Felix Bassey.docx" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/Skilaverkfni5.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/skilaverkefni2_livinus.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/style/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/form og töplur/new 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/gridsystem/gridsystem.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/verkefni4/verkefni41.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni fyrsta.py" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/photoshop.psd" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/FOR1A3U_Forlykkjur_timadæmi.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/FOR1A3U_Hlutaprof1.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/bakgrunnslitir/maplocation.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/bin/Debug/æfing verkefni 7.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/æfing verkefni 7.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/order/order.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/bakgrunnslitir/maplocation.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/FOR1A3U_Hlutaprof1.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus.rar" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verk/verk.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/bin/Debug/FOR1A3U_skila verkefni_4.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/FOR1A3U_Skilaverkefni_5.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/N-_mynd_photoshop.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/photoshop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/FOR1A3U_Forlykkjur_timadæmi.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/bin/Debug/verkefni_6.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/FOR1A3U_synidæmi1.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/synidæmi1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/Verkefni_5.pdf" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/form og töplur/form og töplur.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/bin/Debug/FOR1A3U_SKIL5_H2.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/2008-Harley-Davidson-Softail-FLSTFFatBoyb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5.rar" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/skilaverkefni3.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/FOR1A3U_Hlutaprof1.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/FOR1A3U_Hlutaprof1.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/bin/Debug/FOR1A3U_SKIL5_H2.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/verkefni4.zip" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/FOR1A3U_modulus_H2.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/synidaemi1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/FOR1A3U_skila verkefni_4.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/hello-world" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/495px-Paul_arrested.psd" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/FOR1A3U_Skilaverkefni_5.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/maplocation/maplocation.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/displayblock/displayblock.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/æfing verkefni 7.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/verkefni_6.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/FOR1A3U_Forlykkjur_timadæmi.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/bin/Debug/FOR1A3U_skila verkefni_4.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/style/index.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/verkefni4/css/efnisyfirlit.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/skilaverkefni2_livinus.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/Æfingaverkefni 2.py" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/FOR1A3U_SKIL5_H2.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/verkefni4/verkefni42.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni1.py" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/bakgrunnslitir/bakgrunnslitir.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/FOR1A3U_modulus_H2.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/edl/verk1_files/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/Bartolomeo_Montagna_-_Saint_Paul_-_Google_Art_Project (1).psd" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/489feed5a32d68667f50899633003391.jpg" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/verkefni4/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/form og töplur/form og töplur.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/657---base_image_4.1424268435.jpg" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5.7z" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verk/verk_file.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/bin/Debug/æfing verkefni 7.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/order/order.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/git_spurningar.txt.docx" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/skilaverkefni2_livinus.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/loka verkefni í for1A3U (2).lnk" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1.zip" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/git_spurningar.docx" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/skilaverkefni2_livinus.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/hönnun vefsíðu.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/mynd/657---base_image_4.1424268435.jpg" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/mynd/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/skilaverkefni2_livinus.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/git_gso/Áfangaverkefni GSÖ.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/FOR1A3U_Skilaverkefni_5.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/skilaverkefni2.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/495px-Paul_arrested.jpg" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/tuna" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/St. Paul - his life in a song &amp; video (song- My name is Paul).mp3" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni fyrsta shell.py" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/synidaemi1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/gagna/~$vinus Felix Bassey.docx" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni1shell.py" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/FOR1A3U_synidæmi1.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/displayblock/displayblock.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/floatskipnunin/floatskipnunin.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/gridsystem/gridsystem.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/Bartolomeo_Montagna_-_Saint_Paul_-_Google_Art_Project.jpg" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/hqdefault.jpg" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2 verk4.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/bin/Debug/æfing verkefni 7.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3.rar" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/modelbox/modelbox.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verk/index.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/FOR1A3U_modulus_H2.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/FOR1A3U_modulus_H2.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/definiy_final_essay_.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/leturfræði/leturfræði.html" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/FOR1A3U_Skilaverkefni_5.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/FOR1A3U_Forlykkjur_timadæmi.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:/git_verkefni" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/bakgrunnslitir/bakgrunnslitir.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/verkefni_6.csproj" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/New folder/Önn_5/ROB2R/rob2a/verkefni2/Moving Forward Verkefni 2.c" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/mynd/leikur leika.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verkefni_6/verkefni_6/App.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/verk/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/Æfingaverkefni 1b.py" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.pdb" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/bin/Debug/FOR1A3U_skila verkefni_4.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="H:/véfsíðar alt/floatskipnunin/floatskipnunin.css" afterPath="" />
+      <change type="DELETED" beforePath="H:/.gitconfig" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2 verk4.sln" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/bin/Debug/FOR1A3U_SKIL5_H2.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.pdb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rob2b3u/skyrsla/mybib.bib" afterPath="$PROJECT_DIR$/rob2b3u/skyrsla/mybib.bib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni2/Skilaverkefni2/vefforittun_verkefni2/Skilaverkefni2.py" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni2/Skilaverkefni2/vefforittun_verkefni2/Skilaverkefni2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ROBO3RF05BU/rob2b3u/skyrsla/hardware.tex" afterPath="$PROJECT_DIR$/ROBO3RF05BU/rob2b3u/skyrsla/hardware.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ROBO3RF05BU/rob2b3u/skyrsla/img/gant.png" afterPath="$PROJECT_DIR$/ROBO3RF05BU/rob2b3u/skyrsla/img/gant.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ROBO3RF05BU/rob2b3u/skyrsla/img/Thumbs.db" afterPath="$PROJECT_DIR$/ROBO3RF05BU/rob2b3u/skyrsla/img/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="H:/.bash_history" afterPath="H:/.bash_history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rob2b3u/skyrsla/img/Thumbs.db" afterPath="$PROJECT_DIR$/rob2b3u/skyrsla/img/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ROBO3RF05BU/rob2b3u/skyrsla/intro.tex" afterPath="$PROJECT_DIR$/ROBO3RF05BU/rob2b3u/skyrsla/intro.tex" />
+      <change type="MODIFICATION" beforePath="H:/Thumbs.db" afterPath="H:/Thumbs.db" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VEFÞ2VF05CU/bottle.py" afterPath="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/skil5/bottle.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DockManager">
+    <window id="3">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="Skilaverkefni 3_Dict_Tuple.py" pinned="false" current-in-tab="true">
+              <entry file="file://H:/4önn2018/FORR2F_repeated_course/Skilaverkefni 3_Dict_Tuple/Skilaverkefni 3_Dict_Tuple.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="68">
+                    <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="222694324">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="DS_Store" value="1" />
+          <entry key="Procfile" value="2" />
+          <entry key="css" value="7" />
+          <entry key="csv" value="4" />
+          <entry key="json" value="1" />
+          <entry key="menu" value="1" />
+          <entry key="py" value="173" />
+          <entry key="tpl" value="56" />
+          <entry key="txt" value="1" />
+          <entry key="url" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="7" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="66" />
+          <entry key="Python" value="173" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="csv" value="94" />
+          <entry key="py" value="5621" />
+          <entry key="tpl" value="904" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="PLAIN_TEXT" value="998" />
+          <entry key="Python" value="5621" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/skilaverkefni 3/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="505">
+              <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skilaverkefni_5_lambda_anna.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda_anna.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skilaverkefni_5_lambda.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="80" column="11" lean-forward="false" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skilaverkefni_5_lambdaa.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambdaa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2712576789_afangaskraning.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/2712576789_afangaskraning.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skilaverkefni 6_skraning.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/Skilaverkefni 6_skraning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="94" column="28" lean-forward="false" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="safnarinn.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FORR2HF05CU/lokaverkefni/skil1/safnarinn/safnarinn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1543575116607" expanded="true" signature="54:69" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Æfingaverkefni_1C.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 3 - skráarvinnsla 1C danSkra/Æfingaverkefni 1C/Æfingaverkefni_1C.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="H:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni3/v3_lausn/v3b/views/frett.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5/Forsíða/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5/views/index.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5/views/head.tpl" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/Skilaverkefni_3_klasar_H18/test.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_form_3/haus.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_form_3/index.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/verkefni5_anna_Form/form_synidaemi1/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_form_3/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_form_3/views/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_form_3/body.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/verkefni5_anna_Form/form_synidaemi1/views/index.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/verkefni5_anna_Form/server_validation/views/signup_success.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/verkefni5_anna_Form/server_validation/stripping_string.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/verkefni5_anna_Form/server_validation/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/verkefni5_anna_Form/server_validation/views/signup_form.tpl" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 4/skilaverkefni4_klasasafnið.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 4/prufa.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/minir_klasar.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/test.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/skilaverkefni 3/minir_klasar.py" />
+        <option value="H:/2önn/gagna2önn/Skilaverkefni 2.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/skilaverkefni 3/lagerhlutir.csv" />
+        <option value="$PROJECT_DIR$/profani/profani.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/timaverkefni2_prof/timaverkefni2_prof.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 1 - Listar og strengir.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 3 - skráarvinnsla.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/Skilaverkefni5_Form/views/app.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda_anna.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda_þappaðirlis.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/Skilaverkefni5_Form/views/signup_success.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/form_Skilaverkefni5/Procfile" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/form_Skilaverkefni5/opinber/normalize.css" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/form_Skilaverkefni5/opinber/skeleton.css" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/Skilaverkefni5_Form/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/form_Skilaverkefni5/Utsyn/haus.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/form_Skilaverkefni5/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/form_Skilaverkefni5/Utsyn/index.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/form_Skilaverkefni5/Utsyn/signup.tpl" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni4/v4_lausn/4_2/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_1/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/skil5/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Lokaverkefni_h18/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni7/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/app.py" />
+        <option value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/Timaverkefni3.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 3 - skráarvinnsla 1C danSkra/Æfingaverkefni 1C/Æfingaverkefni_1C.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 2 – dictionary.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambdaa.py" />
+        <option value="$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/skilaverkefni 3/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1064" />
+    <option name="y" value="63" />
+    <option name="width" value="1073" />
+    <option name="height" value="845" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="5önnhaust2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5önnhaust2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5önnhaust2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5önnhaust2018" type="462c0819:PsiDirectoryNode" />
+              <item name="FORR2HF05CU" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5önnhaust2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5önnhaust2018" type="462c0819:PsiDirectoryNode" />
+              <item name="FORR2HF05CU" type="462c0819:PsiDirectoryNode" />
+              <item name="lokaverkefni" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5önnhaust2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5önnhaust2018" type="462c0819:PsiDirectoryNode" />
+              <item name="FORR2HF05CU" type="462c0819:PsiDirectoryNode" />
+              <item name="lokaverkefni" type="462c0819:PsiDirectoryNode" />
+              <item name="skil1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5önnhaust2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5önnhaust2018" type="462c0819:PsiDirectoryNode" />
+              <item name="FORR2HF05CU" type="462c0819:PsiDirectoryNode" />
+              <item name="lokaverkefni" type="462c0819:PsiDirectoryNode" />
+              <item name="skil1" type="462c0819:PsiDirectoryNode" />
+              <item name="safnarinn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5önnhaust2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5önnhaust2018" type="462c0819:PsiDirectoryNode" />
+              <item name="FORR2HF05CU" type="462c0819:PsiDirectoryNode" />
+              <item name="Upprifjun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5önnhaust2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5önnhaust2018" type="462c0819:PsiDirectoryNode" />
+              <item name="FORR2HF05CU" type="462c0819:PsiDirectoryNode" />
+              <item name="Upprifjun" type="462c0819:PsiDirectoryNode" />
+              <item name="Upprifjun 3 - skráarvinnsla 1C danSkra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5önnhaust2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5önnhaust2018" type="462c0819:PsiDirectoryNode" />
+              <item name="VEFÞ2VF05CU" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\5önnhaust2018\FORR2HF05CU" />
+      <recent name="H:\5önnhaust2018\VEFÞ2VF05CU\form_Skilaverkefni5" />
+      <recent name="H:\5önnhaust2018\VEFÞ2VF05CU\Skilaverkefni5_FORM\Skilaverkefni5_Form\views" />
+      <recent name="H:\5önnhaust2018\VEFÞ2VF05CU\Skilaverkefni5_FORM\Skilaverkefni5_Form" />
+      <recent name="H:\5önnhaust2018\VEFÞ2VF05CU\Skilaverkefni5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\5önnhaust2018\VEFÞ2VF05CU\Skilaverkefni7" />
+      <recent name="H:\5önnhaust2018\VEFÞ2VF05CU\Skilaverkefni6\Skil6_cookiesSession" />
+      <recent name="H:\5önnhaust2018\VEFÞ2VF05CU\form_Skilaverkefni5" />
+      <recent name="H:\5önnhaust2018\VEFÞ2VF05CU\Skilaverkefni5_FORM\Skilaverkefni5_Form" />
+      <recent name="H:\5önnhaust2018\VEFÞ2VF05CU\Skilaverkefni5_FORM\Skilaverkefni5_Form\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Skilaverkefni 6_skraning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="5önnhaust2018" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/Skilaverkefni 6_skraning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Timaverkefni3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="5önnhaust2018" />
+      <option name="SCRIPT_NAME" value="H:\5önnhaust2018\FORR2HF05CU\Timaverkefni3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="5önnhaust2018" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="5önnhaust2018" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="app (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="5önnhaust2018" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_1/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="safnarinn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FORR2HF05CU/lokaverkefni/skil1/safnarinn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="5önnhaust2018" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FORR2HF05CU/lokaverkefni/skil1/safnarinn/safnarinn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.app (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Skilaverkefni 6_skraning" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Timaverkefni3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.app (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.safnarinn" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.safnarinn" />
+        <item index="1" class="java.lang.String" itemvalue="Python.app (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Timaverkefni3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Skilaverkefni 6_skraning" />
+        <item index="4" class="java.lang.String" itemvalue="Python.app (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a2c1431-5b1f-4f7f-a796-ef5f066e645d" name="Default" comment="" />
+      <created>1537802895887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537802895887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1064" y="63" width="1073" height="845" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25468904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.tpl" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VEFÞ2VF05CU/verkefni5_anna_Form/checkbox-multiple/app.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/skilaverkefni 3/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda_anna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="11" lean-forward="false" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambdaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/2712576789_afangaskraning.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/Skilaverkefni 6_skraning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="94" column="28" lean-forward="false" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/lokaverkefni/skil1/safnarinn/safnarinn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1543575116607" expanded="true" signature="54:69" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 3 - skráarvinnsla 1C danSkra/Æfingaverkefni 1C/Æfingaverkefni_1C.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/4önn2018/FORR2F_repeated_course/Skilaverkefni 3_Dict_Tuple/Skilaverkefni 3_Dict_Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/skilaverkefni 3/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda_anna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="11" lean-forward="false" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambdaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/2712576789_afangaskraning.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/Skilaverkefni 6_skraning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="94" column="28" lean-forward="true" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/lokaverkefni/skil1/safnarinn/safnarinn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1543575116607" expanded="true" signature="54:69" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 3 - skráarvinnsla 1C danSkra/Æfingaverkefni 1C/Æfingaverkefni_1C.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/Skilaverkefni5_Form/views/signup_success.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/Skilaverkefni5_Form/views/base.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/Skilaverkefni5_Form/views/signup_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/form_Skilaverkefni5/Utsyn/index.tpl" />
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/form_Skilaverkefni5/Utsyn/signup.tpl" />
+    <entry file="file://D:/5önnhaust2018/VEFÞ2VF05CU/form_Skilaverkefni5/app.py" />
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni4/v4_lausn/4_2/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_1/views/head.tpl" />
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_1/views/index.tpl" />
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_1/app.py" />
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni7/user.sql.sql" />
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni6/Skil6_cookiesSession/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VEFÞ2VF05CU/Skilaverkefni5_FORM/skil5/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 1 - Listar og strengir 1A danLStr/Upprifjun 1 - Listar og strengir 1A danLStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="96" column="23" lean-forward="false" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/5önnhaust2018/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda.py" />
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni2/skil2_foll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/4önn2018/FORR2F_repeated_course/Skilaverkefni2_föll/Skilaverkefni2_föll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/4önn2018/FORR2F_repeated_course/Timaverkefni3/Timaverkefni3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni2/skil2_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Timaverkefni3.py" />
+    <entry file="file://H:/4önn2018/FORR2F_repeated_course/Upprifjun/FOR1TÖ05BU_Upprifjun_1/FOR1TÖ05BU_Upprifjun_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/4önn2018/FORR2F_repeated_course/Skilaverkefni 3_Dict_Tuple/Skilaverkefni 3 dict-tuple_föll/Skil3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/timaverkefni3/Timaverkefni3.py" />
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/skilaverkefni 3/test2.py" />
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/skilaverkefni 3/skilaverkefni 3/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda_anna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="11" lean-forward="false" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambdaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/2712576789_afangaskraning.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Skilaverkefni 6/Skilaverkefni 6_skraning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="94" column="28" lean-forward="false" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 3 - skráarvinnsla 1C danSkra/Æfingaverkefni 1C/Æfingaverkefni_1C.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/Upprifjun/Upprifjun 2 – dictionary.py" />
+    <entry file="file://$PROJECT_DIR$/FORR2HF05CU/lokaverkefni/skil1/safnarinn/safnarinn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1543575116607" expanded="true" signature="54:69" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/4önn2018/FORR2F_repeated_course/Skilaverkefni 3_Dict_Tuple/Skilaverkefni 3_Dict_Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,107 @@
+* {box-sizing: border-box;}
+
+body{
+	background-color: #17252A;
+	margin: 0;
+}
+
+header{
+	text-align: center;
+	color: #17252A;
+	font-family: 'Raleway', sans-serif;
+	background-color: #3AAFA9;
+	margin: 0;
+}
+
+h1{
+	margin: 0;
+	padding: 0.5em;
+}
+
+ul{
+	max-width: 20em;
+	margin: auto;
+	color: #DEF2F1;
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	list-style-type: none;
+	margin-top: 3em;
+}
+
+
+.svar{
+	margin-left: 2em;
+}
+
+.javascript{
+	background-color: #FEFF;
+	color: black;
+	border-radius: 5px;
+	font-family: 'Source Code Pro', monospace;
+
+}
+
+.javascript .code{
+	padding: 1em;
+}
+
+.javascript .output{
+
+	padding: 1em;
+
+}
+
+.javascript .takkar{
+	width: 100%;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.javascript .takkar button{
+	width: 100%;
+}
+.tveirTakkar {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+}
+
+input[type=text] {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=text]:focus {
+    border-color:#333;
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+
+.red{color: red;}
+.blue{color: blue;}
+.orange{color: orange;}
+
+footer{
+	margin: 5em;
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+	ul{
+		max-width: 40em;
+	}
+}
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  	ul{
+		max-width: 60em;
+	}
+}

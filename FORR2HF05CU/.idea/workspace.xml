@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56cdadde-c4d5-48bc-80fb-bd10fa88c134" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>randomTol</find>
+      <find>breytahl</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="H:/" />
+  </component>
+  <component name="ProjectId" id="1Zg1Sux2IQATINAdsEeN24wCkVY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="H:/6önn2019_fra_jan/FORR2HF05CU_re/PycharmProjects/FORR2HF05CU-re" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\5önnhaust2018\FORR2HF05CU\Upprifjun\Upprifjun3 - skráarvinnsla.py" />
+      <recent name="H:\5önnhaust2018\FORR2HF05CU\Upprifjun\Upprifjun2 – dictionary.py" />
+      <recent name="H:\5önnhaust2018\FORR2HF05CU\Upprifjun\Upprifjun 1 - Listar og strengir" />
+      <recent name="H:\5önnhaust2018\FORR2HF05CU\Upprifjun\Upprifjun 1 - Listar og strengir 1A danLStr" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\5önnhaust2018\FORR2HF05CU\skilaverkefni 3\skilaverkefni 3" />
+      <recent name="H:\5önnhaust2018\FORR2HF05CU\skilaverkefni 3" />
+      <recent name="H:\5önnhaust2018\FORR2HF05CU" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mazething">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FORR2HF05CU" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="Skilaverkefni5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FORR2HF05CU" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/skilaverk5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/skilaverk5/Skilaverkefni5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Skilaverkefni_5_lambdaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FORR2HF05CU" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../6önn2019_fra_jan/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../6önn2019_fra_jan/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambdaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FORR2HF05CU" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Vvek3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Vvek3/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mazething" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FORR2HF05CU" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lokapygame/Leikjaforritun-1/skil2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lokapygame/Leikjaforritun-1/skil2/mazething.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="safnarinn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FORR2HF05CU" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lokapygame/safnarinn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lokapygame/safnarinn/safnarinn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Skilaverkefni5" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.Skilaverkefni_5_lambdaa" />
+      <item itemvalue="Python.safnarinn" />
+      <item itemvalue="Python.mazething" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mazething" />
+        <item itemvalue="Python.safnarinn" />
+        <item itemvalue="Python.Skilaverkefni_5_lambdaa" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.Skilaverkefni5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56cdadde-c4d5-48bc-80fb-bd10fa88c134" name="Default" comment="" />
+      <created>1537345506353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537345506353</updated>
+      <workItem from="1585245938033" duration="3704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="326" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585253441530">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="326" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1585253441530" />
+    <state width="1340" height="212" key="GridCell.Tab.0.bottom" timestamp="1585254156812">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="212" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1585254156812" />
+    <state width="1340" height="212" key="GridCell.Tab.0.center" timestamp="1585254156812">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="212" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1585254156812" />
+    <state width="1340" height="212" key="GridCell.Tab.0.left" timestamp="1585254156812">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="212" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1585254156812" />
+    <state width="1340" height="212" key="GridCell.Tab.0.right" timestamp="1585254156812">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="212" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1585254156812" />
+    <state x="343" y="150" key="SettingsEditor" timestamp="1585246340655">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="343" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1585246340655" />
+    <state x="547" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1585245986933">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="547" y="332" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1585245986933" />
+    <state x="287" y="372" width="1200" height="610" key="dock-window-1" timestamp="1585253501077">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="287" y="372" width="1200" height="610" key="dock-window-1/0.0.1680.1010@0.0.1680.1010" timestamp="1585253501077" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skilaverkefni 3/skilaverkefni 3/test.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FORR2HF05CU$app.coverage" NAME="app Coverage Results" MODIFIED="1585246655177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Vvek3" />
+    <SUITE FILE_PATH="coverage/FORR2HF05CU$Skilaverkefni5.coverage" NAME="Skilaverkefni5 Coverage Results" MODIFIED="1585246530275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/skilaverk5" />
+    <SUITE FILE_PATH="coverage/FORR2HF05CU$safnarinn.coverage" NAME="safnarinn Coverage Results" MODIFIED="1585253423752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lokapygame/safnarinn" />
+    <SUITE FILE_PATH="coverage/FORR2HF05CU$mazething.coverage" NAME="mazething Coverage Results" MODIFIED="1585253496831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lokapygame/Leikjaforritun-1/skil2" />
+    <SUITE FILE_PATH="coverage/FORR2HF05CU$Skilaverkefni_5_lambdaa.coverage" NAME="Skilaverkefni_5_lambdaa Coverage Results" MODIFIED="1585247981229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../6önn2019_fra_jan/FORR2HF05CU/Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni" />
+  </component>
+</project>

@@ -1,0 +1,56 @@
+Verkefni 2 - Viðmótsforritun
+
+1. Útskýrðu stuttlega eftirfarandi hugtök og hlutverk.
+	a. GPU
+		- GPU örgjörvi í sjákortið í tölvunni. Hlutverk sjákorts er að nota hágæði í tölvuleikjum eða kvikmyndum
+
+	b. Pixels
+		- Eitt pixel er lítill kassi á skjánum með ákveðnum lit. Í hverjum tölvuskjá geta verið mörg þúsund eða milljón af pixlum sem gera út myndir sem við sjáum á skjánum.
+		  Því fleiri pixlar því betri gæði.
+
+	c. Frame buffer, raster-scan og refresh rate
+		- Refresh rate er hversu oft tölvuskjárinn uppfærist með nýjar upplýsingar. Því hærra refresh rate því betra notendaviðmót.
+
+		  Maður sér ekki af mikið af raster scan vélum í dag en áður þegar það var notað virkaði þannig að það voru geislar sem fóru yfir skjáinn röð eftir röð.
+		  Geislin byrjaði efst til vinstri og fer alveg lengst til hægri og þegar það gerist fer geislinn í næstu röð fyrir neðan og byrjar aftur til vinstri.
+		  Þessi færsla heldur áfram þangað til geislinn fer neðst til hægri, og eftir það fer geislinn aftur efst til vinstri og byrjar upp á nýtt.
+
+		  Frame buffer er þegar hluti af minninu er geymir tilbúna mynd sem er svo sýnt á skjánum.
+ 
+	d. WebGL og OpenGL
+		- WebGL er JavaScript API sem maður notar til að teikna 2D og 3D grafík í web browser inn í HTML5 canvas element. WebGL er aðallega notað fyrir web applications.
+		  OpenGL er API fyrir að sýna 2D og 3D vector grafíks. OpenGL virkar í fleiri í mörgum týpum af tölvum með öðruvísu af hugbúnað og er oft notað fyrir desktop applications.
+
+2. Afhverju eru 3D objectar búnir til útfrá samsettum þríhyrningum í 3D grafík?
+	- Þríhyrningar eiga auðveldara að tengjast við aðra þríhyrninga sem mynda svo þríhyrninga möskva (triangle mesh).
+	  Margar grafík hugbúnaðir vinna með triangle mesh vegna það er léttara en að vinna með þríhyrninga einir og sér.  
+
+3. Útskýrðu ítarlega og tæknilega hvernig rendering pipleline virkar í WebGl.
+	- Rendering pipeline lýsir hvaða skref grafíkkerfi þarf að fara í gegnum til þess sýna 3D grafík í 2D skjá.
+	  Einnig þegar 3D object er búinn til á render pipeline að breyta objectinum yfir í það sem skjárinn sýnir.
+
+4. Útskýrðu hlutverk og hvernig 2D/3D transformation fylkin (translation, rotations, scale) í línulegri algebru og WebGL eru notuð. Afhverju eru fylkin mikilvæg?
+	- Við notum transformation til að færa objecta, breyta form objecta eða meira að segja breyta til þess að breyta útsýnið.
+
+	  2D/3D Transformation fylki:
+		* Translation er notað til þess að færa objectinn
+		* Rotation er notað til þess að snúa objectinn
+		* Scaling er notað til að stækka eða minnka objectinn
+
+	  Fylki er mikilvæg til þess að búa til illusion eða blekkingu.
+
+5. Hvað er WebGL Shaders og Graphics Library Shader Language (GLSL) og hvert er þeirra hlutverk?
+	- WebGl Shaders er skipt í tvo hluta: Vertex Shader og Fragment Shader. Vertex Shader stjórnar hornunum á vigrana og Fragment Shader stjórnar hvernig pixlarnir á vigrunum líta út.
+	  GLSL er notað til þess að reikna út hluti til þess að getað breytt vigra grafík yfir í mynd eða pixla.
+
+
+
+
+
+
+daphnehotmail321@gmail.com
+
+
+
+
+

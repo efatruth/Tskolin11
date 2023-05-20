@@ -1,0 +1,237 @@
+C2960 Boot Loader (C2960-HBOOT-M) Version 12.2(25r)FX, RELEASE SOFTWARE (fc4)
+Cisco WS-C2960-24TT (RC32300) processor (revision C0) with 21039K bytes of memory.
+2960-24TT starting...
+Base ethernet MAC Address: 0006.2A19.83D4
+Xmodem file system is available.
+Initializing Flash...
+flashfs[0]: 1 files, 0 directories
+flashfs[0]: 0 orphaned files, 0 orphaned directories
+flashfs[0]: Total bytes: 64016384
+flashfs[0]: Bytes used: 4414921
+flashfs[0]: Bytes available: 59601463
+flashfs[0]: flashfs fsck took 1 seconds.
+...done Initializing Flash.
+
+Boot Sector Filesystem (bs:) installed, fsid: 3
+Parameter Block Filesystem (pb:) installed, fsid: 4
+
+
+Loading "flash:/c2960-lanbase-mz.122-25.FX.bin"...
+######################### [OK]
+              Restricted Rights Legend
+
+Use, duplication, or disclosure by the Government is
+subject to restrictions as set forth in subparagraph
+(c) of the Commercial Computer Software - Restricted
+Rights clause at FAR sec. 52.227-19 and subparagraph
+(c) (1) (ii) of the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+
+           cisco Systems, Inc.
+           170 West Tasman Drive
+           San Jose, California 95134-1706
+
+
+
+
+Cisco IOS Software, C2960 Software (C2960-LANBASE-M), Version 12.2(25)FX, RELEASE SOFTWARE (fc1)
+Copyright (c) 1986-2005 by Cisco Systems, Inc.
+Compiled Wed 12-Oct-05 22:05 by pt_team
+Image text-base: 0x80008098, data-base: 0x814129C4
+
+
+
+Cisco WS-C2960-24TT (RC32300) processor (revision C0) with 21039K bytes of memory.
+
+
+24 FastEthernet/IEEE 802.3 interface(s)
+2 Gigabit Ethernet/IEEE 802.3 interface(s)
+
+63488K bytes of flash-simulated non-volatile configuration memory.
+Base ethernet MAC Address       : 0006.2A19.83D4
+Motherboard assembly number     : 73-9832-06
+Power supply part number        : 341-0097-02
+Motherboard serial number       : FOC103248MJ
+Power supply serial number      : DCA102133JA
+Model revision number           : B0
+Motherboard revision number     : C0
+Model number                    : WS-C2960-24TT
+System serial number            : FOC1033Z1EY
+Top Assembly Part Number        : 800-26671-02
+Top Assembly Revision Number    : B0
+Version ID                      : V02
+CLEI Code Number                : COM3K00BRA
+Hardware Board Revision Number  : 0x01
+
+
+Switch   Ports  Model              SW Version              SW Image
+------   -----  -----              ----------              ----------
+*    1   26     WS-C2960-24TT      12.2                    C2960-LANBASE-M
+
+Cisco IOS Software, C2960 Software (C2960-LANBASE-M), Version 12.2(25)FX, RELEASE SOFTWARE (fc1)
+Copyright (c) 1986-2005 by Cisco Systems, Inc.
+Compiled Wed 12-Oct-05 22:05 by pt_team
+
+Press RETURN to get started!
+
+
+%LINK-5-CHANGED: Interface FastEthernet0/1, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/1, changed state to up
+
+%LINK-5-CHANGED: Interface FastEthernet0/11, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/11, changed state to up
+
+%LINK-5-CHANGED: Interface FastEthernet0/21, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/21, changed state to up
+
+
+Switch>en
+Switch#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#ho S1
+S1(config)#enable secret cisco
+S1(config)#
+S1(config)#line console 0
+S1(config-line)#password cisco
+S1(config-line)#login
+S1(config-line)#line vty 0 15
+S1(config-line)#password cisco
+S1(config-line)#login
+S1(config-line)#exit
+S1(config)#service password-encryption
+S1(config)#banner motd "no unauthorized access allowed"
+S1#
+%SYS-5-CONFIG_I: Configured from console by console
+
+S1#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+S1(config)#banner motd "no unauthorized access allowed"
+S1(config)#no banner motd "no unauthorized access allowed"
+S1(config)#banner motd "Adgang bannadur"
+S1(config)#exit
+S1#
+%SYS-5-CONFIG_I: Configured from console by console
+
+S1#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+S1(config)#ip domain-name tskoli.is
+S1(config)#crypto key generate rsa
+The name for the keys will be: S1.tskoli.is
+Choose the size of the key modulus in the range of 360 to 2048 for your
+  General Purpose Keys. Choosing a key modulus greater than 512 may take
+  a few minutes.
+
+How many bits in the modulus [512]: 1024
+% Generating 1024 bit RSA keys, keys will be non-exportable...[OK]
+
+S1(config)#username admin secret cisco
+*mar. 1 0:38:8.4:  %SSH-5-ENABLED: SSH 1.99 has been enabled 
+S1(config)#line vty 0 15
+S1(config-line)#transport input ssh
+S1(config-line)#login local
+S1(config-line)#exit
+S1(config)#ip ssh version 2
+S1(config)#exit
+S1#
+%SYS-5-CONFIG_I: Configured from console by console
+
+S1#
+S1#
+%SYS-5-CONFIG_I: Configured from console by console
+
+S1#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+S1(config)#vlan 10
+S1(config-vlan)#name Nemandur1
+S1(config-vlan)#vlan 20
+S1(config-vlan)#name Kennarar1
+S1(config-vlan)#vlan 99
+S1(config-vlan)#name Tolvudeld1
+S1(config-vlan)#vlan 110
+S1(config-vlan)#name Nemandur2
+S1(config-vlan)#vlan 120
+S1(config-vlan)#name Kennarar2
+S1(config-vlan)#vlan 199
+S1(config-vlan)#name Tolvudeld2
+S1(config-vlan)# 
+S1(config-vlan)#int range Fa0/1 - 10 
+S1(config-if-range)#switchport mode access
+S1(config-if-range)#switchport access 10
+                                      ^
+% Invalid input detected at '^' marker.
+	
+S1(config-if-range)#switchport access vlan 10
+S1(config-if-range)#int range Fa0/11 - 20 
+S1(config-if-range)#switchport mode access
+S1(config-if-range)#switchport access vlan 20
+S1(config-if-range)#
+S1(config-if-range)#int range Fa0/21 - 24 
+S1(config-if-range)#switchport mode access
+S1(config-if-range)#switchport access vlan 99
+S1(config-if-range)#
+S1(config-if-range)#
+S1#
+%SYS-5-CONFIG_I: Configured from console by console
+config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+S1(config)#int range Fa0/21 - 24 
+S1(config-if-range)#end
+S1#
+%SYS-5-CONFIG_I: Configured from console by console
+
+S1#
+
+
+
+Router>en
+Router#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#ho R1
+R1(config)#enable secret cisco
+R1(config)#
+R1(config)#line console 0
+R1(config-line)#login
+% Login disabled on line 0, until 'password' is set
+R1(config-line)#password cisco
+R1(config-line)#login
+R1(config-line)#line vty 0 15
+R1(config-line)#password cisco
+R1(config-line)#login
+R1(config-line)#exit
+R1(config)#service password-encryption
+R1(config)#banner motd "Adgang bannadur"
+R1(config)#exit
+R1#
+%SYS-5-CONFIG_I: Configured from console by console
+
+R1#
+R1#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#ip domain-name tskoli.is
+R1(config)#crypto key generate rsa
+The name for the keys will be: R1.tskoli.is
+Choose the size of the key modulus in the range of 360 to 2048 for your
+  General Purpose Keys. Choosing a key modulus greater than 512 may take
+  a few minutes.
+
+How many bits in the modulus [512]: 1024
+% Generating 1024 bit RSA keys, keys will be non-exportable...[OK]
+
+R1(config)#username admin secret cisco
+*mar. 1 1:31:19.427:  %SSH-5-ENABLED: SSH 1.99 has been enabled 
+R1(config)#line vty 0 15
+R1(config-line)#transport input ssh
+R1(config-line)#login local
+R1(config-line)#exit
+R1(config)#exit
+R1#
+%SYS-5-CONFIG_I: Configured from console by console
+
+R1#copy running-config startup-config
+Destination filename [startup-config]? 
+Building configuration...
+[OK]
+R1#

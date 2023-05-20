@@ -1,0 +1,18 @@
+/*
+ * SASS mixins are declared with the @mixin directive
+ * and used with the @include directive
+ */
+.pagecontent header h3 {
+  color: #3ab;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: #7a9e27; }
+.pagecontent header h4 {
+  background-color: #0fe; }
+.pagecontent .list1 {
+  font-family: monospace; }
+
+footer h3 {
+  margin-top: 2em; }
+
+/*# sourceMappingURL=mixin_styles.css.map */

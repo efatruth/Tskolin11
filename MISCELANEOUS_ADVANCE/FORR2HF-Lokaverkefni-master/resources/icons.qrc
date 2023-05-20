@@ -1,0 +1,34 @@
+<!DOCTYPE RCC><RCC version="1.0">
+  <qresource>
+    <file>Logo.png</file>
+    <file>Logo150.png</file>
+    <file>icons/.DS_Store</file>
+    <file>icons/hotel_and_services/.DS_Store</file>
+    <file>icons/hotel_and_services/png/bed-1.png</file>
+    <file>icons/hotel_and_services/png/money-1.png</file>
+    <file>icons/hotel_and_services/png/.DS_Store</file>
+    <file>icons/hotel_and_services/png/wine-menu.png</file>
+    <file>icons/hotel_and_services/png/chef.png</file>
+    <file>icons/hotel_and_services/png/trolley.png</file>
+    <file>icons/hotel_and_services/png/map.png</file>
+    <file>icons/hotel_and_services/png/briefcase.png</file>
+    <file>icons/hotel_and_services/png/map-1.png</file>
+    <file>icons/hotel_and_services/png/24-hours-1.png</file>
+    <file>icons/hotel_and_services/png/notes.png</file>
+    <file>icons/hotel_and_services/png/notebook.png</file>
+    <file>icons/hotel_and_services/png/cutlery-1.png</file>
+    <file>icons/hotel_and_services/png/menu.png</file>
+    <file>icons/hotel_and_services/png/24-hours.png</file>
+    <file>icons/hotel_and_services/png/reception.png</file>
+    <file>icons/hotel_and_services/png/ring.png</file>
+    <file>icons/hotel_and_services/png/laptop.png</file>
+    <file>icons/hotel_and_services/png/hotel-6.png</file>
+    <file>icons/hotel_and_services/png/clock-1.png</file>
+    <file>icons/hotel_and_services/png/mortgage.png</file>
+    <file>icons/hotel_and_services/png/french-fries.png</file>
+    <file>icons/hotel_and_services/png/room-key-1.png</file>
+    <file>icons/hotel_and_services/png/woman.png</file>
+    <file>icons/hotel_and_services/png/telephone.png</file>
+    <file>icons/hotel_and_services/png/bellboy.png</file>
+  </qresource>
+</RCC>

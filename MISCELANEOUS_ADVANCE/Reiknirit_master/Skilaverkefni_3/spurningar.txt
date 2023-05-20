@@ -1,0 +1,31 @@
+2. 
+Flækjustig fallsins hanoi(n, A, B, C) er 0(N), af því að fallið tekur N langan tíma. 
+Því stærri tala N er því lengri tíma er forritið að keyra fallið.
+
+3a.
+Fall sem hefur 0(n) flækjutíma er fall sem tekur n langan tíma. 
+Dæmi um reiknirit er leit á lista. 
+Það byrjar frá fyrsta staki og fer í gegnum listan alveg þangað til seinasta stak.
+Þetta virkar fyrir röðuðum og óröðuðum lista
+
+3b.
+Fall sem hefur 0(n**2) flækjutíma er fall sem tekur n*n langan tíma. 
+Selection sort er dæmi um reiknirit sem notar þessa flækjutíma.
+
+3c.
+Fall sem hefur 0(log(n)) flækjutíma er fall sem tekur log(n) langan tíma. 
+Tvíundarleit er reiknirit sem notar þennan flækjutíma.
+Virkar bara á röðuðum lista.
+
+4a. 
+Streng af lengd 2 hefur 325 möguleika.
+
+4b. 
+Tímamælirinn er mjög mismunandi. Því hærra n er því lengri tíma það tekur forritinu að keyra.
+Flækjutími fallsins er 0(log(n)).
+
+5a.
+Já, það skiptir máli hversu strengirnir eru langir.
+
+5b.
+Flækjutíminn er 0(log(n)).

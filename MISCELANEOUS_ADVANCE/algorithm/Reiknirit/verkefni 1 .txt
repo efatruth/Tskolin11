@@ -1,0 +1,116 @@
+﻿1. Finding the quickest route through a supermarket (find 1 item)
+
+
+Go through row
+
+if item found
+	go to checkout
+
+else
+	pass
+
+if not in row
+
+	go to next row
+
+if no more rows left
+	
+	go to checkout
+
+________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Generate Fibonacci numbers.
+
+
+
+Have user input integer
+
+have value x as 1
+
+have value y as 1
+
+if value equals to 1
+
+	print x
+
+else if value equals to 2
+
+	print x
+	print y
+
+else if value equals or is larger than 3
+
+	x plus y is z
+
+	print x
+	print y
+	print z
+
+	if value is 3
+		pass
+
+	else
+	
+		for value in range of integer prompt minus 3
+
+			x is equal to y
+
+			y is equal to z
+
+			print z
+
+
+
+
+
+
+
+

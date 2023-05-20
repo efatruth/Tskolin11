@@ -1,0 +1,39 @@
+/*
+ * SASS mixins are declared with the @mixin directive
+ * and used with the @include directive
+ */
+
+$color1: #3ab;
+$color2: #0fe;
+$fontSerif: monospace;
+$customMarginTop: 3em;
+$signUpBorderSize: 5px;
+$signUpBorderStyle: dotted;
+$signUpBorderColor: #7a9e27;
+@mixin signUpBorder ($signUpBorderSize, $signUpBorderStyle, $signUpBorderColor) {
+  border: {
+    width: $signUpBorderSize;
+    style: $signUpBorderStyle;
+    color: $signUpBorderColor;
+  }
+}
+
+.pagecontent{
+  header {
+    h3 {
+      color: $color1;
+      @include signUpBorder($signUpBorderSize, $signUpBorderStyle, $signUpBorderColor);
+    }
+    h4 {
+      background-color: $color2;
+    }
+  }
+  .list1 {
+    font-family: $fontSerif;
+  }
+
+}
+
+footer h3 {
+  margin-top: $customMarginTop - 1;
+}

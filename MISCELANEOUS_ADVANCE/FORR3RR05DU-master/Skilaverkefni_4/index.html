@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    
+    <header>
+        <h1>Verkefni 4</h1>
+    </header>
+
+    <ul>
+        <li>
+            <p>1. (3/15) Skoðaðu myndina gaumgæfilega hér fyrir neðan og svaraðu spurningunum:</p>
+            <ul>
+                <li>
+                    <p>a. Hvað gerir forritið hér fyrir neðan?</p>
+                    <p class="svar">Þetta forrit raðar lista. Forritið býr til lista sem er einu hærri en hæðsta talan í listanum sem á að flokka. Svo býr hann til anna lista sem er jafn stór og lista sem fallið fékk, báðir listanir eru fylltir með 0. Svo fer forritið gegnum listan sem á að sorta. og tekur hverja tölu fyrir sig og raðar tölunum upp í fyrsta lsitan sem var búinn til. ef talan er 1 þá mundi talan fara í 1 [1] af listanum er hún er 100 myndi hún fara í [100] af lsitanum.</p>
+                    
+                
+                </li>
+                <li>
+                    <p>b. Hvað er reikniritið kallað?</p>
+                    <p class="svar">counting sort</p>
+                
+                </li>
+                <li>
+                    <p>c. Hvert er flækjustig reikniritsins?</p>
+                    <p class="svar">O(n+k)</p>
+                    
+                </li>
+            </ul>
+        </li>
+        
+        
+        <li>
+            <p>2. (2/15) Útfærðu fall sem leitar línulega (linear search) af ákveðinni tölu í lista. Lengd listans á ekki að skipta máli. Ef talan er ekki í listanum skilar fallið -1. Ef talan er í listanum skilar fallið staðsetningu (index) tölunnar í listanum.</p>
+
+            <ul>
+                <li class="svar">
+                    <div class="javascript">
+                        <div class="code">
+                            <p>array = [1,2,3,4,5,6,7,8,9,10];</p>
+                            <p><span class="blue">function</span> <span class="yellow">lineSearch</span>(<span class="orange">array, x</span>){</p>
+                            <p>&nbsp;&nbsp;<span class="red">for</span>(i of array){</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(i == x)<span class="red">return</span> i;</p>
+                            <p>&nbsp;&nbsp;}</p>
+                            <p>&nbsp;&nbsp;<span class="red">return </span> -1;</p>  
+                            <p>}</p>
+                            </p>
+                        </div>
+                        <div class="takkar">
+                            <input id="lineSearchInput" type="text" name="" placeholder="input">
+                            <button id="lineSearch">Leita</button>
+                        </div>
+                        <div class="" id="lineSearchOutput"></div>
+                    </div>
+                </li>
+            </ul>
+        
+        </li>
+            
+        <li>
+            <p>3. (3/15) Útfærðu fall sem leitar með tvíundar leit (binary search) að ákveðinni tölu í lista. Lengd listans á ekki að skipta máli og listinn er alltaf raðaður. Ef talan er ekki í listanum skilar fallið - 1. Ef talan er í listanum skilar fallið staðsetningu (index) tölunnar í listanum. Notaðu endurkvæmni í lausninni.</p>
+
+            <ul>
+                <li class="svar">
+                    <div class="javascript">
+                        <div class="code">
+                            <p><span class="blue">function</span> <span class="yellow">binarySearch</span>(<span class="orange">array, l , max, tala)</span>{</p>
+
+                            <p>&nbsp;&nbsp;<span class="red">if</span>(max >= l){</p>
+                                
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;mid = l+(max-l)/2</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;mid = Math.round(mid)</p>
+
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(array[mid] == tala){</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> mid</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else if</span>(array[mid] > tala){</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return </span> <span class="blue">binarySearch</span>(array, l, mid-1, tala)</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else</span>{</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="blue">binarySearch</span>(array, mid+1, max, tala)</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                            <p>&nbsp;&nbsp;}<span class="red">else</span>{</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> -1;</p>
+                            <p>&nbsp;&nbsp;}</p>
+                            <p>}</p>
+                        </div>
+                        <div class="takkar">
+                            <input id="binarySearchInput" type="text" name="" placeholder="input">
+                            <button id="binarySearch">Leita</button>
+                        </div>
+                        <div class="" id="binarySearchOutput"></div>
+                            
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <p>4. (2/15) Flækjustig:</p>
+            <ul>
+                <li>
+                    <p>a. Hvert er flækjustig forritsins í lið 2 hér fyrir ofan? Útskýrðu stuttlega.</p>
+                    <p class="svar">Flækustig er o(n), forritið fær bara lista og stærðin hans ræður flækustiginu.</p>
+                </li>
+                <li>
+                    <p>b. Hvert er flækjustig forritsins í lið 3 hér fyrir ofan? Útskýrðu stuttlega.</p>
+                    <p class="svar">Flækustigið er o(log n), ástæðan er sú að þú ferð aldrei gegnum allan listan heldur skiptir hönum alltaf í 2 þangað til að forritið finnur töluna eða listinn klárast</p>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <p>5. (2/15) Útfærðu fall sem tekur tölu og setur á réttan stað í raðaðan lista. Ef listi er tómur fer talan fremst. Fallið skal skila True þegar tölu hefur verið bætt í lista.</p>
+            <li class="svar">
+                <div class="javascript">
+                    <div class="code">
+                        <p><span class="blue">var</span> listi = [1,2,3,4,5,6,8,9,10];</p>
+
+                        <p><span class="blue">function</span> <span class="yellow">addToList</span>(<span class="orange">tala</span>){</p>
+                        <p>&nbsp;&nbsp;<span class="red">if</span>(listi.<span class="blue">length</span> < 1 || listi == <span class="blue">undefined</span>){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;listi[0]  = tala;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="blue">true</span>;</p>
+                        <p>&nbsp;&nbsp;}</p>
+
+                        <p>&nbsp;&nbsp;<span class="red">if</span>(listi[listi.<span class="blue">length</span> -1] < tala){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;listi[listi.<span class="blue">length</span>] = tala;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="blue">true</span>;</p>
+                        <p>&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;<span class="red">if</span>(listi[0] > tala){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;listi.<span class="blue">splice</span>(0,0,tala);</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="blue">true</span>;</p>
+                        <p>&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;<span class="red">for</span>(i in listi){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(tala <= listi[i]){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;listi.<span class="blue">splice</span>(i,0,tala)</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="blue">true</span>;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;}</p>
+                        
+                        <p>&nbsp;&nbsp;<span class="red">return</span> false;</p>
+                        <p>}</p>
+
+                        
+                    </div>
+                    <div class="takkar">
+                        <input id="addToListInput" type="text" name="" placeholder="input">
+                        <div class="tveirTakkar">
+                            <button id="addToListiId" accesskey="">Bæta við</button>
+                            <button id="addToListiPrint">Prenta Lista</button>
+                        </div>    
+                    </div>
+                    <div class="" id="addToListOutput"></div>
+                          
+                    </div>
+                </div>
+            </li>
+        </li>
+        
+        <li>
+            <p>6. (3/15) Útfærðu endurkvæmt fall sem leitar að ákveðinni tölu í Binary Search Tree. Hér fyrir neðan eru skilagildi fallsins:</p>
+            <li>a. Ef tréið er tómt (hefur enga rót) ætti fallið að skila False.</li>
+            <li>b. Ef talan sem leitað er að í tréinu er ekki til skilar fallið False.</li>
+            <li>c. Ef talan sem leitað er að í tréinu er til skilar fallið True.</li>
+            <li class="svar">
+                <div class="javascript">
+                    <div class="code">
+                        <p><span class="blue">class</span><span class="yellow"> Node</span>{</p>
+                        <p>&nbsp;&nbsp;<span class="yellow">constructor</span>(<span class="orange">value</span>){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">this.value</span> = <span class="blue">value;</span></p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">this.left</span> = <span class="blue"> null;</span></p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">this.right</span> = <span class="blue"> null;</span></p>
+                        <p>&nbsp;&nbsp;}</p>
+
+                        <p>&nbsp;&nbsp;<span class="yellow">insert</span>(<span class="orange">d</span>){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(d == <span class="orange">this</span>.value){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> false;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else if</span>(<span class="orange">this</span>.value > d){</p>
+                    
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(<span class="orange">this</span>.left){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="orange">this</span>.left.insert(d);</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red"> else</span>{</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">this</span>.left = <span class="red">new</span> Node(d);</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> true;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else</span>{</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(<span class="orange">this</span>.right){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="orange">this</span>.right.insert(d);</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else</span>{</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">this</span>.right = <span class="red">new</span> Node(d);</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> true;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;}</p>
+            
+                        <p>&nbsp;&nbsp;search(d){</p>
+
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(d == <span class="orange">this</span>.value){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> true;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else if</span>(<span class="orange">this</span>.value > d){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(<span class="orange">this</span>.left){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="orange">this</span>.left.search(d)</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else</span>{</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> false;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else</span>{</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(<span class="orange">this</span>.right){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="orange">this</span>.right.search(d)</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else</span>{</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> false;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;}</p>
+                        <p>}</p>
+
+                        <p><span class="blue">class</span> Tree{</p>
+                        <p>&nbsp;&nbsp;constructor(){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">this</span>.root = null;</p>
+                        <p>&nbsp;&nbsp;}</p>
+            
+                        <p>&nbsp;&nbsp;insert(d){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(<span class="orange">this</span>.root){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="orange">this</span>.root.insert(d)</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else</span>{</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">this</span>.root = new Node(d)</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> true;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;}</p>
+            
+                        <p>&nbsp;&nbsp;search(d){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">if</span>(<span class="orange">this</span>.root){</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> <span class="orange">this</span>.root.search(d);</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}<span class="red">else</span>{</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">return</span> false;</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                        <p>&nbsp;&nbsp;}</p>
+                        <p>}</p>
+
+                        <p>t = <span class="red">new</span> Tree;</p>
+                    </div>
+                    <div class="takkar">
+                        <input id="treeSearchInput" type="text" name="" placeholder="input">
+                        <div class="tveirTakkar">
+                            <button id="treeSearch">Leita</button>
+                            <button id="treeInsert">Bætavið</button>
+                        </div>    
+                    </div>
+                    <div class="" id="treeSearchOutput"></div>
+                          
+                    </div>
+                </div>
+
+                
+            </li>
+
+        
+        </li>
+        
+
+    </ul>
+    <footer></footer>
+    <script type="text/javascript" src="skilaverkefni_4.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+    
+</body>
+</html>

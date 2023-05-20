@@ -1,0 +1,31 @@
+Kypler L. Espiritu
+01/02/18
+
+
+2. Útskýrðu hvernig erfir virka útfrá kóðasýnidæminu (Teacher) í ofangreindri grein
+  - Í sýnidæminu "Teacher" er búið til constructor með nafn, aldur, kyn o.fl. Inn í smiðnum er "call()" fall sem leyfir þér (eða constructer-inum) að kalla á fall annars staðar. Í þessu tilfelli er það constructer-inn "Person". Þá er fyrst set inn "this" til þess að skilgreina því að keyra gildin hjá Person þegar þú ert að búa til Teacher. Svo er sett inn öll gildi fyrir Person inn í Teacher.
+
+"this.subject = subject;" er bara þarna til þess að búa til nýtt property fyrir "Teacher" þar sem aðrir með "Person" constructer-inn munu ekki hafa.
+  
+3. Útskýrðu Class í ES6 útfrá functions og prototype. Komdu með keyrandi kóðasýnidæmi sem sýnir Class notkun. 
+  - Class er mjög svipað og að erfa með prototype. Það er sérstakt fall þar sem þú getur notað function expressions(syntax: class expressions) og function declarations(syntax: class declarations).
+
+Dæmi úr https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes:
+ 
+class Rectangle {
+  constructor(height, width) {
+    this.height = height;
+    this.width = width;
+  }
+  // Getter
+  get area() {
+    return this.calcArea();
+  }
+  // Method
+  calcArea() {
+    return this.height * this.width;
+  }
+}
+
+const square = new Rectangle(10, 10);
+

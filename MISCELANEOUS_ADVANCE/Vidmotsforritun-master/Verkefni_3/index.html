@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<title>3D Cube - Verkefni 3</title>
+		<style>
+			body{margin: 0;}
+		</style>
+	</head>
+	<body>
+		<script src="three.js"></script>
+		<script>
+			var scene = new THREE.Scene(); // Canvas
+			scene.background = new THREE.Color(0x212121); // Lit canvas 
+			var camera = new THREE.PerspectiveCamera(50 , window.innerWidth/window.innerHeight, 0.1 , 1000); // Hversu stór canvasinn og sjónarhorn
+
+			var renderer = new THREE.WebGLRenderer();
+			renderer.shadowMap.enabled = true; // Leyfa shadow
+			renderer.setSize( window.innerWidth, window.innerHeight );
+			document.body.appendChild( renderer.domElement );
+
+			var light = new THREE.PointLight( 0x0061ff, 1, 100 ); // Ljós 
+			light.position.set( 10, 20, 0 ); // Hvar ljósið er staðsett
+			light.castShadow = true; // Hvort ljósið hendir shadow
+			scene.add( light ); // Set í canvasinn
+
+			var light_1 = new THREE.PointLight( 0x0061ff, 1, 100 ); 
+			light_1.position.set( 0, 20, 10 );
+			light_1.castShadow = true;
+			scene.add( light_1 );
+
+			var light_2 = new THREE.PointLight( 0x0061ff, 1, 100 ); 
+			light_2.position.set( 0, -2, 5 ); 
+			light_2.castShadow = true;
+			scene.add( light_2 );
+
+			var box_geom = new THREE.BoxGeometry( 9, 9, 9 ); // Lengd, Breidd og hæð kubbs
+			var box_mats = new THREE.MeshStandardMaterial(); 
+			var full_cube = new THREE.Mesh( box_geom, box_mats );
+			full_cube.castShadow = true; // Getað kastað skugga
+			full_cube.receiveShadow = false; // Ekki geta fengið skugga
+			scene.add(full_cube);
+
+			full_cube.position.y = 5;
+			camera.position.z = 50;
+
+			window.addEventListener("mousemove", function(e){ // Þegar þú hreyfir músina rotate-ast kubburinn í gagnstæða átt
+				full_cube.rotation.x -= 0.05;
+				full_cube.rotation.y -= 0.05;
+			}); 
+
+			var animate = function () { // Function sem rotate-ar kubbinn
+				requestAnimationFrame( animate );
+				
+				full_cube.rotation.x += 0.01;
+				full_cube.rotation.y += 0.01;
+
+				renderer.render( scene, camera );
+			};
+
+			animate();
+		</script>
+	</body>
+</html>

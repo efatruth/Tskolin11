@@ -1,0 +1,25 @@
+	Lesið og skoðið video í Efni um MikTex og TexMaker https://www.youtube.com/watch?v=WnIYTFTsWiU https://www.youtube.com/watch?v=SoDv0qhyysQ
+	
+Latex - How to install Miktex and Texmaker
+	-https://www.youtube.com/watch?v=WnIYTFTsWiU
+
+LaTeX Tutorial-william Hickin
+	-https://www.um.edu.mt/__data/assets/pdf_file/0004/171373/LaTeX_Tutorial.pdf
+	-https://www.um.edu.mt/__data/assets/pdf_file/0004/171373/LaTeX_Tutorial.pdf
+
+LaTeX Tutorial 1 - Creating a LaTeX Document
+	-https://www.youtube.com/watch?v=SoDv0qhyysQ
+
+StepperMótorar og rasberiPi3
+	-https://www.google.is/search?q=raspberry+pi+3+with+stepper+motor+and+h+bridge&rlz=1C1GGRV_enIS758IS758&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjP4Ij23-3YAhVSqaQKHWbiDHwQ_AUICigB&biw=1680&bih=944#imgrc=--vUU7F06uB1LM:
+
+
+DC motor með H-brigde Python
+	-https://www.instructables.com/id/Controlling-Direction-and-Speed-of-DC-Motor-Using-/
+
+
+Ohms lögmálið
+	-https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law?_ga=2.224920474.1426440412.1518514205-1509896061.1493374965
+
+
+

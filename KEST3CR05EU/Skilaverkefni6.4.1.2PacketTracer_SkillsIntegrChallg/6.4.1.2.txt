@@ -1,0 +1,3 @@
+
+HQ(config)#ip route 209.265.200.30  subnetmask/27 s0/1/0 the primary path through the Serial 0/1/0 interface.
+HQ(config)#ip route 209.265.200.30  subnetmask/27 s0/1/1 10 the backup route through the Serial 0/1/1 interface with a 10 AD.

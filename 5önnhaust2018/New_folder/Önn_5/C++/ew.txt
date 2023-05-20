@@ -1,0 +1,47 @@
+#include <iostream>
+#include <cmath>
+#include <string>
+
+using namespace std;
+
+int ipArray[4] = {};
+int netBits, subnet;
+
+int updateIp (int ipArray[4], int counter, int MN)
+{
+  string firstNet;
+  for (int i = 0; i < 3; i++)
+  {
+    cin >> firstNet[i];  
+  }
+
+  for (int i = 0; i < 4; i++)
+  {
+    cout << firstNet <<  
+  }
+} 
+
+
+int main() {
+  cout << "Ip tala: ";
+  
+  for (int i = 0; i < 4; i++)
+  {
+    cin >> ipArray[i];
+  }
+
+  cout << "Netbitar: ";
+  cin >> netBits;
+  cout << "Skipta mörg net: ";
+  cin >> subnet;
+
+  int subBit = ceil(log2(subnet));
+  int magicNumber = (32 - (netBits + subBit));
+
+  for (int i = 0; i < subnet; i++)
+  {
+    
+  }
+ return 0; 
+}
+

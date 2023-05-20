@@ -1,0 +1,15 @@
+1. Hvað er callback? Útskýrðu með eigin orðum, komdu með kóðadæmi.
+  - Callback er fall sem er keyrt EFTIR að annað fall er búið að keyra.
+     
+    DÆMI:
+    
+    function first(){
+      console.log(1);
+    }
+    
+    function second(){
+      console.log(2);
+    }
+    
+    first();
+    second();

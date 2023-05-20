@@ -1,0 +1,16 @@
+5. Hvað gera eftirfarandi aðferðir?
+  a. stopPropagation()
+    - Segjum þú ert með eftirfarandi kóða:
+        <div>
+            DIV
+            <span>
+                Span
+            </span>
+        <div>
+        
+      Þegar þú ýtir á "span" þá ertu líka ýta á "div". Með stopPropagation getur þú ýt á "span" án þess að ýta á "div".
+  
+  b. preventDefault()
+    - Ef þú ert með element-ið "<a href='https://w3schools.com/'>W3Schools.com</a>" og ýtir á "W3Schools.com" ferðu á síðuna þeirra. Með         preventDefault(), þegar þú ýtir nú á link-inn gerist ekki neitt. 
+      
+      Þannig preventDefault() hættir við event ef það er hægt.

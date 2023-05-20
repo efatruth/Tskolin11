@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{test}
+Yusuf~Abdullahi Badamasi.
+\newblock The working principle of an arduino.
+\newblock In {\em Electronics, Computer and Computation (ICECCO), 2014 11th
+  International Conference on}, pages 1--4. IEEE, 2014.
+
+\bibitem{brock2013changing}
+J~Dean Brock, Rebecca~F Bruce, and Marietta~E Cameron.
+\newblock Changing the world with a raspberry pi.
+\newblock {\em Journal of Computing Sciences in Colleges}, 29(2):151--153,
+  2013.
+
+\bibitem{brock}
+J~Dean Brock, Rebecca~F Bruce, and Susan~L Reiser.
+\newblock Using arduino for introductory programming courses.
+\newblock {\em Journal of Computing Sciences in Colleges}, 25(2):129--130,
+  2009.
+
+\bibitem{WinNT}
+MultiMedia LLC.
+\newblock {MS Windows NT} kernel description, 1999.
+
+\bibitem{monk}
+Simon Monk.
+\newblock {\em Programming Arduino}.
+\newblock McGraw-Hill Companies, USA, 2012.
+
+\end{thebibliography}

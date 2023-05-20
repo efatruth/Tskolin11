@@ -1,0 +1,15 @@
+Leikur 2.
+
+-Bomb moving blocks puzzles.
+
+-Collect keys.
+
+Leikur 3.
+
+-Space invaders
+
+-After enough time, turn into 4dimentional shooting.
+
+Leikur 4.
+
+-If takes too much time, send down missiles.

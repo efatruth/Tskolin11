@@ -1,0 +1,90 @@
+.head {
+  background: #333;
+  width: 100%;
+  height: 3.5em;
+  padding-top: .4em;
+  padding-bottom: .4em;
+  margin: 0;
+  color: #f4f4f4;
+  text-align: center;
+  font-size: 2em;
+}
+
+.wrapper {
+  max-width: 60em;
+  margin: 0 auto;
+}
+
+.wrapper-order-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.wrapper-order-form h3 {
+  margin-bottom: 1em;
+}
+
+.wrapper-order-form div {
+  max-width: calc(60em / 3);
+  align-content: center;
+  padding-left: 1em;
+  padding-bottom: 1em;
+}
+
+.wrapper-order-form .about label {
+  display: block;
+  margin-top: .3em;
+}
+
+.wrapper-order-form .pizzasize span {
+  display: block;
+  margin-top: 1em;
+}
+
+.wrapper-order-form .toppings .sub-wrapper-order-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.wrapper-order-form .toppings span {
+  display: block;
+}
+
+.submit-form {
+  margin-top: 4em;
+  text-align: center;
+}
+
+.sign-up {
+  text-align: center;
+}
+
+.col-1, .col-2 {
+  margin-left: 10em;
+}
+
+.sign-up-form label {
+  display: block;
+  margin-top: .3em;
+}
+
+.order-label:valid, .sign-up-label:valid {
+  background-color: #eaffee;
+  border: 1px solid #47ff6c;
+  border-radius: 5px;
+}
+
+.order-label:invalid, .sign-up-label:invalid {
+  background-color: #ffeaea;
+  border: 1px solid #ff8c8c;
+  border-radius: 5px;
+}
+
+.center {
+  text-align: center;
+}
+
+.back-button {
+  text-decoration: none;
+  color: #000;
+}

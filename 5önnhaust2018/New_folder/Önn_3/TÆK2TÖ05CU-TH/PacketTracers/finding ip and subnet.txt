@@ -1,0 +1,40 @@
+172.31.144.0/24
+
+2**2 = 4 Net
+
+(To find subnet mask, take the bits to make an octet (which is 7) and see how many bits are remaining (which are 1) and then take the slash plus the remaining)
+(Example: Max Hosts: 126, Ip: 192.168.100.1/24,		24+1 = /25)
+
+
+1 Net:74 computers. 
+2**7 - 2 = 126 
+
+172.31.144.0: First ip: 1, Last ip: 126, Broadcast:127,		Subnet Mask: 255.255.255.128
+
+
+
+2 Net: 52 computers
+2**6 - 2 = 62
+
+172.31.144.128: First ip: 129, Last ip: 190, Broadcast:191,	Subnet Mask: 255.255.255.192
+
+
+3 Net: 28 computers
+2**5 -2 = 30
+
+172.31.144.192: First ip: 193, Last ip: 222, Broadcast:223,	Subnet Mask: 255.255.255.224
+
+
+Router 1: 2 ip's
+
+172.31.144.224: First ip: 225, Last ip: 226, Broadcast:227,	Subnet Mask: 255.255.255.252
+
+
+Router 2: 2 ip's
+
+172.31.144.228: First ip: 229, Last ip: 230, Broadcast:231,	Subnet Mask: 255.255.255.252
+
+Router 3: 2 ip's
+
+172.31.144.232: First ip: 233, Last ip: 234, Broadcast:235	Subnet Mask: 255.255.255.252
+

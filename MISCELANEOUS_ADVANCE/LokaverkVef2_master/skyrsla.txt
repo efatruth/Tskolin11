@@ -1,0 +1,23 @@
+A. Höfundar:
+	Kypler L. Espiritu
+
+B. Kóði, vefslóð og gögn:
+	Github - https://github.com/KyplerEspiritu/LokaverkVef2
+	Heroku - https://kypler-vef2lokaverk.herokuapp.com/
+
+	Database er inná tsuts.tskoli.is/phpmyadmin. Þú getur séð kóðann í app.py og tpl-ið eru inná views folder og myndir og css eru inná static folder
+
+C. Verkefnalýsing:
+	Vefsíðan er þannig að þú býrð til notenda og pantar pizzu. Svo þegar þú ert búinn að panta pizzu geturu séð allar pantanir aðeins hjá notendan sem þú ert skráður inn í.
+
+D. Tæknileg atriði:
+	Ég er með myndband inná github
+
+E. Verkaskipting:
+	Ég var að vinna aleinn, þannig ég gerði 100%.
+
+F. Greiningar, hannanir, lýsingar og skýringar á afurð:
+	Ég notaði helling af efnum úr gömlum verkefnum. Aðalega verkefni 5 með að panta pizzu og verkefni 10 með að skrá sig inn og búa til notenda. Svo bætti ég fullt við.
+
+G. Hvað hefði ég getað gert?
+	Það sem ég hafði getað gert var að hafa tíma fyrir pantanir. Þannig 10 mínútum eftir að einhver pöntunin var pöntuð hefði hún eyðst sjálfkrafa.

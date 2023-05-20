@@ -1,0 +1,2 @@
+4. Það eru til þrjár leiðir að binda event við element, hver þeirra leiða er best og af hverju? 
+  - Best leiðin er að nota Button. Þannig ef þú ýttir á taka þá gerist eitthvað. Hinar tvær leiðir er að láta vefsíðuna loada og að slá       inn í input tag og þá gerist eitthvað á meðan þú ert að slá inn.

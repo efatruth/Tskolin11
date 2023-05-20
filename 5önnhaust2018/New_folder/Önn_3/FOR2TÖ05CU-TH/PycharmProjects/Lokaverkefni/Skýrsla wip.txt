@@ -1,0 +1,17 @@
+website that you can create user: (forritun and VEFÞ)
+
+Secret code for special members(VIP). (forritun)
+
+Access to gig dates, merchandise, meet n' greets. VIP's get a better deal/more options and purchase backstage tix. (GAGNASÖFN + FORRITUN + VEFÞ)
+
+Cookies to confirm if you are VIP user or not and to log out user if browser hasnt been open in long time (expire) (VEFÞ).
+
+Admin user can change tour dates, and prices, and create new stuff (also delete other users).
+
+When admin user creates a new event, he adds the time, date, location, gig, etc. (Forritun (Klasi).)
+
+Users can also delete themselves, change their bio. (gagnasöfn, forritun)
+
+Order tickets and other shit. (forritun)
+
+(Klasar, föll, smiðir, tilvik, erfðir.)

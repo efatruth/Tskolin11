@@ -1,0 +1,25 @@
+/*
+ * SASS Variables are defined with a $ character
+ * and can have different kinds of data types: color, string, boolean, multi-value
+ */
+
+$paracolor: #42f486;
+$signUp: 'Skráðu þig hér! ';
+$unusualFontSize: 2em;
+$customMargin: 2em 1em 4em .5em;
+
+.mypara {
+  color: $paracolor;
+}
+
+div p:nth-child(2)::before {
+  content: $signUp;
+}
+
+.list1 {
+  font-size: $unusualFontSize;
+}
+
+header h3 {
+  margin: $customMargin;
+}

@@ -1,0 +1,63 @@
+
+* {
+    box-sizing: border-box;
+} 
+body {
+  display: flex;
+  flex-flow: column;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 60em;  
+  padding: 0;
+}
+
+
+/*  flex-grow: n;
+    flex-shrink: n   
+    flex-basis: n (n, px,em,%, auto);
+    
+    shorthand = flex: n n n; */
+
+/* mobile */
+.row {
+  display: flex;
+  flex-flow: column;
+}
+
+/* 600px ~ 37.5em > iphone 6 > ipad > tölvuskjáir */
+@media screen and (min-width: 37.5em) {
+
+  .row {
+    display: flex;
+    flex-flow: row;
+  }
+
+  .col {
+    display: flex;
+    flex-flow: column;
+  }
+
+  .I-I {
+    flex: 1 1 0;
+  }
+
+  .II-I {
+    flex: 2 2 1.4em;
+  }
+
+  .III-I {
+    flex: 3 3 2.1em;
+  }
+
+  .IV-I {
+    flex: 4 4 2.7em;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .container {
+    width: 60em;
+  }
+}

@@ -1,0 +1,16 @@
+1) Determine the problem
+2) Gather info
+3) Propose a solution to the problem
+4) Make plan
+5) Test the plan
+6) Resolve the problem, if not work, see step 1.
+
+__________________________________________________________________________
+To troubleshoot connectivity:
+1) Ping website
+2) Ping Default Gateway
+3) Ping Another server
+
+__________________________________________________________________________
+Can ping with ip but not hostname:
+1) Nslookup to see if translation is correct.

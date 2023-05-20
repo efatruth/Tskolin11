@@ -1,0 +1,59 @@
+body {
+  display: grid;
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 60em;
+  font-family: sans-serif;
+}
+.center {
+  text-align: center;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 6fr 4fr;
+  grid-template-rows: 1fr 5fr;
+  grid-template-areas: "title title" "pic text" "pic author"
+}
+
+.Title {
+  grid-area: title;
+  background-color: red;
+  border-radius: 20px 20px 0 0;
+}
+
+.Picture {
+  grid-area: pic;
+  background-color: white;
+}
+
+.Text {
+  grid-area: text;
+  background-color: #d8d8d8;
+}
+
+.Author {
+  grid-area: author;
+  background-color: orange;
+}
+
+img {
+  width: 100%;
+}
+
+.front-img {
+  transform: rotate(20deg);
+}
+ul {
+  margin-top: 5em;
+}
+li {
+  margin: .4em;
+}
+
+/*
+<section class="Title">Test<br>Test<br>Test<br>Test</section>
+<section class="Picture">Test<br>Test<br>Test<br>Test<br></section>
+<section class="Text">Test<br>Test<br>Test<br>Test<br>Test<br></section>
+<section class="Author">Test<br>Test<br>Test<br>Test<br>Test<br></section>
+*/

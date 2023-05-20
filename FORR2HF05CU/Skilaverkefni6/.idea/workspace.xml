@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f069afc-c436-42ec-a8f8-59ffac8e28a6" name="Default Changelist" comment="">
+      <change afterPath="H:/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="H:/4önn2018/FORR2F_repeated_course/Skilaverkefni4/Timaverkefni3.py" afterDir="false" />
+      <change afterPath="H:/4önn2018/FORR2F_repeated_course/Tímaverkefni2/Tímaverkefni2_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skilaverkefni 4/skilaverkefni4_klasasafnið.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skilaverkefni 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skilaverkefni2/Try_Except/Skil22_test_fraFou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/Skilaverkefni_5_lambda_anna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skilaverkefni_5_lambda_þappaðirlista_endurkvæmni/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skilaverkefni 3/skilaverkefni 3/lagerhlutir.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timaverkefni1_prof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timaverkefni2_prof/timaverkefni2_prof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../profani/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../profani/lagerhlutir.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../profani/postnumer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../profani/profani.py" afterDir="false" />
+      <change beforePath="H:/.bash_history" beforeDir="false" afterPath="H:/.bash_history" afterDir="false" />
+      <change beforePath="H:/.gitconfig" beforeDir="false" />
+      <change beforePath="H:/edl/verk1_files/Thumbs.db" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/project" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni1.py" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni1shell.py" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus.rar" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/bin/Debug/skilaverkefni2_livinus.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/skilaverkefni2_livinus.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/skilaverkefni2_livinus.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/skilaverkefni2_livinus.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/obj/Debug/skilaverkefni2_livinus.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/skilaverkefni2.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni2_livinus/skilaverkefni2_livinus/skilaverkefni2_livinus.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3.rar" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/bin/Debug/skilaverkefni3.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/skilaverkefni3.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/skilaverkefni3.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/obj/Debug/skilaverkefni3.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/skilaverkefni3/skilaverkefni3/skilaverkefni3.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/verk/index.html" beforeDir="false" />
+      <change beforePath="H:/forritun/verk/styles.css" beforeDir="false" />
+      <change beforePath="H:/forritun/verk/verk.html" beforeDir="false" />
+      <change beforePath="H:/forritun/verk/verk_file.css" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni fyrsta shell.py" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni fyrsta.py" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/bin/Debug/verkefni_6.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/bin/Debug/verkefni_6.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/bin/Debug/verkefni_6.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/bin/Debug/verkefni_6.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/obj/Debug/verkefni_6.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/verkefni_6/verkefni_6/verkefni_6.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication1/ConsoleApplication1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/ConsoleApplication2/ConsoleApplication2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/synidaemi1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/bin/Debug/FOR1A3U_synidaemi1.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/FOR1A3U_synidaemi1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidaemi1/FOR1A3U_synidaemi1/synidaemi1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/bin/Debug/FOR1A3U_synidæmi1.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/FOR1A3U_synidæmi1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/FOR1A3U_synidæmi1.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/FOR1A3U_synidæmi1.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/FOR1A3U_synidæmi1.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/visualstudio2013/console2014/FOR1A3U_synidæmi1/FOR1A3U_synidæmi1/synidæmi1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/Æfingaverkefni 1b.py" beforeDir="false" />
+      <change beforePath="H:/forritun/Æfingaverkefni 2.py" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/bin/Debug/æfing verkefni 7.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/bin/Debug/æfing verkefni 7.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/bin/Debug/æfing verkefni 7.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/bin/Debug/æfing verkefni 7.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/obj/Debug/æfing verkefni 7.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/æfing verkefni 7/æfing verkefni 7/æfing verkefni 7.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/bin/Debug/FOR1A3U_Forlykkjur_timadæmi.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/FOR1A3U_Forlykkjur_timadæmi.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/FOR1A3U_Forlykkjur_timadæmi.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/FOR1A3U_Forlykkjur_timadæmi.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/FOR1A3U_Forlykkjur_timadæmi.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Forlykkjur_timadæmi/FOR1A3U_Forlykkjur_timadæmi/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1.zip" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/bin/Debug/FOR1A3U_Hlutaprof1.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/FOR1A3U_Hlutaprof1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/FOR1A3U_Hlutaprof1.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/FOR1A3U_Hlutaprof1.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/FOR1A3U_Hlutaprof1.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Hlutaprof1/FOR1A3U_Hlutaprof1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/FOR1A3U_SKIL5_H2.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/bin/Debug/FOR1A3U_SKIL5_H2.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/bin/Debug/FOR1A3U_SKIL5_H2.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/bin/Debug/FOR1A3U_SKIL5_H2.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/bin/Debug/FOR1A3U_SKIL5_H2.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/FOR1A3U_SKIL5_H2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_SKIL3_Felix/FOR1A3U_SKIL5_H2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5.rar" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/Skilaverkfni5.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/bin/Debug/FOR1A3U_Skilaverkefni_5.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/FOR1A3U_Skilaverkefni_5.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/FOR1A3U_Skilaverkefni_5.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/FOR1A3U_Skilaverkefni_5.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/FOR1A3U_Skilaverkefni_5.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_Skilaverkefni_5/FOR1A3U_Skilaverkefni_5/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5.7z" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2 verk4.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2 verk4.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/FOR1A3U_modulus_H2.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/bin/Debug/FOR1A3U_modulus_H2.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/FOR1A3U_modulus_H2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/FOR1A3U_modulus_H2.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/FOR1A3U_modulus_H2.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/FOR1A3U_modulus_H2.pdb" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_modulus_Æfing5/FOR1A3U_modulus_H2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4.sln" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4.v12.suo" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/App.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4.csproj" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/Program.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/bin/Debug/FOR1A3U_skila verkefni_4.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/bin/Debug/FOR1A3U_skila verkefni_4.vshost.exe" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/bin/Debug/FOR1A3U_skila verkefni_4.vshost.exe.config" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/bin/Debug/FOR1A3U_skila verkefni_4.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/FOR1A3U_skila verkefni_4.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/FOR1A3U_skila verkefni_4/FOR1A3U_skila verkefni_4/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="H:/forritun/í síðasta önn/loka verkefni í for1A3U (2).lnk" beforeDir="false" />
+      <change beforePath="H:/gagna/Livinus Felix Bassey.docx" beforeDir="false" />
+      <change beforePath="H:/gagna/~$vinus Felix Bassey.docx" beforeDir="false" />
+      <change beforePath="H:/git_gso/Áfangaverkefni GSÖ.html" beforeDir="false" />
+      <change beforePath="H:/git_spurningar.docx" beforeDir="false" />
+      <change beforePath="H:/git_spurningar.txt.docx" beforeDir="false" />
+      <change beforePath="H:/git_verkefni" beforeDir="false" />
+      <change beforePath="H:/hello-world" beforeDir="false" />
+      <change beforePath="H:/tuna" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/St. Paul - his life in a song &amp; video (song- My name is Paul).mp3" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/Verkefni_5.pdf" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/bakgrunnslitir/bakgrunnslitir.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/bakgrunnslitir/bakgrunnslitir.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/bakgrunnslitir/efnisyfirlit.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/bakgrunnslitir/maplocation.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/bakgrunnslitir/maplocation.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/definiy_final_essay_.txt" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/definiy_final_essay_2.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/displayblock/displayblock.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/displayblock/displayblock.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/floatskipnunin/floatskipnunin.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/floatskipnunin/floatskipnunin.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/form og töplur/form og töplur.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/form og töplur/form og töplur.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/form og töplur/new 1.txt" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/gridsystem/gridsystem.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/gridsystem/gridsystem.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/hönnun vefsíðu.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/hönnun vefsíðu.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/leturfræði/leturfræði.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/leturfræði/leturfræði.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/maplocation/maplocation.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/maplocation/maplocation.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/modelbox/modelbox.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/modelbox/modelbox.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/2008-Harley-Davidson-Softail-FLSTFFatBoyb.jpg" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/489feed5a32d68667f50899633003391.jpg" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/495px-Paul_arrested.jpg" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/495px-Paul_arrested.psd" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/657---base_image_4.1424268435.jpg" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/Bartolomeo_Montagna_-_Saint_Paul_-_Google_Art_Project (1).psd" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/Bartolomeo_Montagna_-_Saint_Paul_-_Google_Art_Project.jpg" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/N-_mynd_photoshop.gif" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/Thumbs.db" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/hqdefault.jpg" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/leikur leika.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/mynd/657---base_image_4.1424268435.jpg" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/mynd/Thumbs.db" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/photoshop.jpg" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/mynd/photoshop.psd" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/normalize.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/order/order.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/order/order.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/style/index.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/style/styles.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/verkefni4.zip" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/verkefni4/css/efnisyfirlit.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/verkefni4/css/normalize.css" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/verkefni4/verkefni41.html" beforeDir="false" />
+      <change beforePath="H:/véfsíðar alt/verkefni4/verkefni42.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1439436203">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Skilaverkefni 6.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="H:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Skilaverkefni 6.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="629" />
+    <option name="y" value="102" />
+    <option name="width" value="846" />
+    <option name="height" value="801" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Skilaverkefni 6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Skilaverkefni 6" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="629" y="102" width="846" height="801" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Skilaverkefni 6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

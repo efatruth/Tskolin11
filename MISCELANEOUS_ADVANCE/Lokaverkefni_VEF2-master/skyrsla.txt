@@ -1,0 +1,23 @@
+A. Höfundar:
+	Kypler L. Espiritu
+
+B. Kóði, vefslóð og gögn:
+	Github - https://github.com/KyplerEspiritu/Lokaverkefni_VEF2
+	Heroku - https://kypler-lokaverkefnivef2.herokuapp.com/
+
+	Database er inná tsuts.tskoli.is/phpmyadmin. Þú getur séð kóðann í app.py og tpl-ið eru inná views folder og myndir og css eru inná static folder
+
+C. Verkefnalýsing:
+	Vefsíðan er þannig að þú býrð til notenda og gerir to do lista. Svo þegar þú ert búinn að gera to do geturu séð allan listan aðeins hjá notendan sem þú ert skráður inn í.
+
+D. Tæknileg atriði:
+	https://youtu.be/oGvcmLXyynw
+
+E. Verkaskipting:
+	Ég var að vinna aleinn, þannig ég gerði 100%.
+
+F. Greiningar, hannanir, lýsingar og skýringar á afurð:
+	Ég notaði helling af efnum úr gömlum verkefnum. Aðalega verkefni 5 með að panta pizzu og breyti því aðeins og verkefni 10 með að skrá sig inn og búa til notenda. Svo bætti ég fullt við.
+
+G. Hvað hefði ég getað gert?
+	Það sem ég hefði getað gert var að hafa það þannig að notandinn hefði getað eytt einhverju úr listanum sínum

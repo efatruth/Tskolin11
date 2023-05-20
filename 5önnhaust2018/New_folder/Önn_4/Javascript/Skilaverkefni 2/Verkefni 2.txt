@@ -1,0 +1,57 @@
+﻿1. ECMAScript er tungumál sem er aðallega notað í skriftum til þess að keyra biðlara, og er líka grunnatriði fyrir Javascript.
+
+2. Það þýðir að þú getur ekki búið til breytur úr data týpum skýranlega. *
+
+3. Það er eiginlega enginn munur.
+
+4. Þau eru data týpur sem skila engu, eða "undefined" og "null".
+
+5. Triple Equals eða þrefalt jafngildamerki þarf öll gildi að vera í sömu týpu. t.d. getur "0==false" skilað "true" en "0===false" skilað "false".
+
+6. "Var" skipan "hoist"-ar allar var breytur, þ.e.a.s. það ýtir því eins hátt upp og það getur og skilgreinir þær sem "undefined", þangað til að það
+kemur að skipuninni, og þá bendir það á þar sem það er geymt. "Let" skipan gerir breytunina á staðnum, og er block scope breyta. Dæmi:
+
+var a = 1;
+var b = 2;
+
+if (a === 1) {
+  var a = 11; 
+  let b = 22;
+
+  console.log(a);  // 11
+  console.log(b);  // 22
+} 
+
+console.log(a); // 11
+console.log(b); // 2
+
+7. Dæmi:
+Function Declaration:
+
+function aFunction(x, y) {
+	return x + y;
+}
+
+Function Expression:
+
+var x = function(y) {
+	return y + y;
+};
+
+Arrow Functions:
+
+var x = (x, y) => {return x + y; };
+
+8. "use strict" lætur vita að kóðinn á að vera mjög strangur þ.e.a.s. það myndi ekki vera hægt að keyra x = 3.14; því x er ekki til enn (not declared).
+
+9. Vegna þess að Javascript leitar af öllum "föll declarations" fyrst áður en hann fer línu eftir línu.
+
+10. Inn í fallinu keyrir fyrsta innifallið fall sem skilar 3 og svo næsta fall sem skilar 8. Þegar alert er notað kemur popup af tölunni (sem verður 8).
+
+11. Það mun búa til "global" breytu.
+
+12. Það á að keyra fallið strax.
+
+13. Scope getur verið bæði local og global. Global scope er þegar breyta er aðgengileg alls staðar í forritinu. Local er þegar breyta er sett inn í falli eða "block".
+
+14. Call stack er notað til þess að halda á því sem við keyrum. Þ.e.a.s. Allt sem við gerum mun fara á stakkann, og mun forritið keyra það sem er efst á stakkanum.

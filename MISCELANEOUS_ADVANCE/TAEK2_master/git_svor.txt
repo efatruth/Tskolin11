@@ -1,0 +1,48 @@
+Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd		Breytir um skrá (change directory).
+	cd ~	Breytir current directory í heimaskrá notanda.
+	ls		Birtir innihald skráar sem notandi er staddur í.
+	pwd		Birtir slóð skráar sem notandi er staddur í. 
+	mkdir	Býr til nýja möppu.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone		Afritar git repository yfir í möppuna sem notandi er staddur í.
+	git log			Sýnir sögu af commits og allar uppl. um það.
+	git status		Birtir hvaða skrár eru breyttar.
+	git diff		Berð saman tvær skrár og sérð hvar munurinn er.
+	git checkout	Skiptir yfir í annað branch.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 					Sjá mun á skrám sem er ekki búið að adda.
+	b) git diff --staged 			Sjá mun á skrám sem eru í staging area.
+	c) git diff commit1 commit2		Sjá mun á skrám sem er búið að commita.
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+		Forrit sem heldur utanum ferli/sögu forrits eða hverju sem er.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+		Auðvelt að nota, frítt, viðurkennt og víða notað.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+		Á 5min fresti er góð regla eða þegar eitthverju stóru er breytt.
+		Þá er alltaf auðvelt að laga villur án þess að missa mikla vinnu.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+		Working directory: skrár sem er búið að breyta en ekki added.
+		Staging area: Það sem er búið að adda en ekki búið að commita.
+		Repository: Geymslan fyrir kláraðar skrár.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+		Þegar verið er að prófa öðruvísi útgáfur af master.
+		T.d. nýjar uppfærslur ofl.
+
+9.	Hver fann upp GIT?
+		Linus Torvalds
+
+10.	Hvar er GIT helst notað?
+		Notað hjá fullt af tölvufyrirtækjum sem stuðla á að samvinna sé á verkefnum.
+		T.d. vefsíðugerðir ofl.
+
+Pétur Steinn Guðmundsson

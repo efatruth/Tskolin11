@@ -1,0 +1,21 @@
+1. 
+Quite simply, by quoting, "A game loop runs continuously during gameplay. Each turn of the loop, it processes user input without blocking, updates the game state, and renders the game. It tracks the passage of time to control the rate of gameplay". More specifically, a Game Loop is the bread and butter of every game, and is rarely used outside of video games. The most simple of Game Loops process the game as quickly as possible, without thinking of hardware or smoothness. As you refine your Game Loop, it becomes more responsive, and can deal with hardware differentials much more efficiently, while simultaneously controlling the speed of which the game runs. A bad Game Loop could be the reason why your game runs so badly. A simple example of a loop would be that it processes input, updates the game until the gametime has caught up with real-time, and then renders it for the player to see. However, this is not the only way for a Game Loop to work, and every Game Loop is different.
+
+2.
+Movement in video games can vary, however the most basic movement would be to move an object from left to right. In order to do that the game must render the block from x to y, and that is achieved by constantly drawing the object a couple frames to the right. Depending on how fast your frames draw, an object could be drawn 60 times in one second, and depending on your speed, could gain more distance in that allotted time. This is the most basic form of movement without implementing a physics simulation. If you would want to include a physics simulation, you would have to use equations and vectors in math. In 3D games, vectors usually have 3 components, which are X, Y, Z. So if we wanted an object to move upwards from the coordinates (0,0,0) as X, Y, Z respectively, we would have to change the middle number, the Y, for velocity, to move it upwards. Another example would be using math to figure out it's velocity and position. Acceleration(a) would be force(F) divided by mass(m), due to heavier objects being harder to gain speed (a = F/m). Assuming you know the current position, force and the velocity of the object, using these equations will help the game predict it's velocity and position later on. As an example, if we have our current time(t) and the gametime, or 'delta time'(dt), in pseudo-code, it would look like this:
+
+	acceleration = force / mass
+    change in position = velocity * delta time
+    change in velocity = acceleration * delta time
+
+This is the most simple way to intergrate physics, and depending on your game, could be even more complicated. All games don't have perfect physics, and can completely break a game.
+
+3.
+Collision detection in a typical maze game would be the player, a red square, walking into walls without passing through them. Without collision, the player could walk through everything and straight into the finish line, so what happens is that we use a bounding box to take the current position of the player, and checks whether each side of the player is currently touching an object that is not passable, usually by comparing the players current position with the object. If the player is currently inside, or touching, the object, it pushes it back in. Collision detection updates very quickly, and usually when your player is inside a block, the distance is very meager and not noticable by the human eye, and pushes it out before we can see. That is the most basic way collision detection works. Physics handling is where things get complicated. An example of collision detection where objects are touching in a maze game could be:
+
+	if (player.x < object.x + object.width  && player.x + player.width  > object.x &&
+		player.y < object.y + object.height && player.y + player.height > object.y) {
+		// Do something if it is touching
+	}
+
+A very basic collision detection code, that isn't very effective, but for such a small game, it would work until you start adding into the game.

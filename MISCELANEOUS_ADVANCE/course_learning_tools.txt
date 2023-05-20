@@ -1,0 +1,4 @@
+
+codes in courses learning tools:
+
+https://www.geeksforgeeks.org/how-to-assign-values-to-variables-in-python-and-other-languages/

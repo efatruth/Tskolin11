@@ -1,0 +1,14 @@
+Verkefni 8  - sprunignar
+Kypler L. Espiritu
+
+
+A. Hvað er sessions?:
+	- Það er hægt að skilgreina session sem geymslu af upplýsingum sem er óskað er eftir á meðan notandinn er að nota vefinn.
+
+B. Hver er mundurinn á sessions og cookie?:
+	- Cookie er bara hluti af gögnum sem er geymt af vafranum sem eru sent á serverinn með öllum "request".
+	- En session er safn af gögnum í serverinum.
+
+C. Session ID (cookie) og hvernig það tengist sessions á miðlara?:
+	- Session ID er einstakt númer sem server síðunnar gefur hverjum notanda á meðan notandinn er í síðunni.
+	Í hvert skipti notandi fer á einhverja síðu fær hann nýtt session ID.

@@ -1,0 +1,43 @@
+﻿1.
+Which IP address is shown on the screen? 
+= 72.163.4.161
+
+Is it the same as the one shown in the figure? 
+= Yes
+
+Should cisco.com always resolve to the same IP address? Explain 
+= It should, since the DNS server gave it a specific hostname/ip address, unless cisco.com changes its IP,
+then the answer is no.
+
+2.
+The image above shows that the Default DNS Server was configured to use a Google DNS server. What
+is your Default Server listed as?
+= tsad03.2t.local
+
+List three commands that you can use with nslookup: 
+= all, debug, domain=NAME
+
+At the nslookup prompt, type cisco.com.
+What is the translated IP address?
+= 72.163.4.161
+
+Is the IP address an IPv4 address or an IPv6 address?
+= It's an IPv4.
+
+Is it the same as the IP address shown with the ping command?
+= Yes.
+
+At the prompt, type the IP address of the Cisco web server that you just found. What is the Name result? 
+= www1.cisco.com 
+
+3.
+What are the names of the Cisco mail servers identified in the mail exchanger field? 
+= rcdn-mx-01.cisco.com, aer-mx-01.cisco.com, alln-mx-01.cisco.com
+
+Write the IP addresses of all the DNS servers that your school computer uses. 
+= 10.200.10.201
+
+
+Reflections.
+
+If your school did not have a DNS server, what effect would this have on your use of the Internet? 

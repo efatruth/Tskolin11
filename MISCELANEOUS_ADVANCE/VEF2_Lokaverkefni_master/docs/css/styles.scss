@@ -1,0 +1,1197 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+/* ---Breytur---*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import "normalize.scss";
+$orangeColor: #ef8354;
+$bluegreyColor: #4f5d75;
+$whiteColor: #fcfcfc;
+$greyColor: #bfc0c0;
+$darkblueColor: #2d3142;
+@mixin makeGrid {
+  display: grid;
+  grid-gap: 0;
+}
+@mixin makeBlock {
+  margin: 1em;
+  padding: 1em;
+  background-color: lighten($darkblueColor, 5);
+  border-radius: 10px;
+  line-height: 1.5;
+}
+@mixin makeList {
+  list-style: none;
+  border-bottom: 2px solid $orangeColor;
+  margin-bottom: 0.5em;
+}
+@mixin resetAnimation {
+  .a,
+  .b,
+  .c,
+  .d,
+  .e,
+  .f,
+  .g,
+  .h,
+  .i,
+  .j,
+  .k,
+  .l {
+    display: none;
+  }
+}
+//@include resetAnimation;
+@mixin midar {
+  padding: 0 2em;
+  border: 2px solid $darkblueColor;
+  width: auto;
+}
+@mixin midarlinkar {
+  background-color: $darkblueColor;
+  margin-bottom: 2em;
+
+  a {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: block;
+    text-decoration: none;
+    padding: 0.3em;
+    text-align: center;
+    color: white;
+  }
+}
+//@include resetAnimation;
+@keyframes signup_text {
+  0% {}
+
+  5% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "villt";
+  }
+
+  10% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "þú";
+  }
+
+  15% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "keppa";
+  }
+
+  20% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "á";
+  }
+
+  30% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "móti";
+  }
+
+  35% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "bestu";
+  }
+
+  40% {
+    font-family: counterstrike;
+    content: "counter-strike";
+  }
+
+  45% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "leikmönnum";
+  }
+
+  55% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "í";
+  }
+
+  60% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "heimi";
+  }
+
+  65% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "?";
+  }
+
+  85% {
+    font-family: "Open Sans",Helvetica,Aril,sans-serif;
+    content: "Skráðu þig núna!";
+  }
+
+  100% {}
+}
+/* ---Layout---*/
+body {
+  margin: 0 auto;
+  font-family: "Open Sans",Helvetica,Aril,sans-serif;
+  background-color: $darkblueColor;
+  color: $whiteColor;
+  @include makeGrid;
+  grid-template-columns: 1fr;
+  grid-template-areas: "header" "wrapper" "nav";
+}
+
+header {
+  grid-area: header;
+}
+/* CS font */
+@font-face {
+  font-family: counterstrike;
+  src: url("../fonts/cs/cs_regular.ttf");
+}
+/* Icons */
+@font-face {
+  font-family: 'icomoon';
+  src: url("../fonts/icomoon/icomoon.eot?lhai6b");
+  src: url("../fonts/icomoon/icomoon.eot?lhai6b#iefix") format('embedded-opentype'), url("../fonts/icomoon/icomoon.ttf?lhai6b") format('truetype'), url("../fonts/icomoon/icomoon.woff?lhai6b") format('woff'), url("../fonts/icomoon/icomoon.svg?lhai6b#icomoon") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home3:before {
+  content: "\e902";
+}
+
+.icon-office:before {
+  content: "\e903";
+}
+
+.icon-newspaper:before {
+  content: "\e904";
+}
+
+.icon-pencil:before {
+  content: "\e905";
+}
+
+.icon-file-text:before {
+  content: "\e922";
+}
+
+.icon-profile:before {
+  content: "\e923";
+}
+
+.icon-cart:before {
+  content: "\e93a";
+}
+
+.icon-compass:before {
+  content: "\e949";
+}
+
+.icon-clock:before {
+  content: "\e94e";
+}
+
+.icon-keyboard:before {
+  content: "\e955";
+}
+
+.icon-users:before {
+  content: "\e972";
+}
+
+.icon-paragraph-right:before {
+  content: "\ea79";
+}
+
+.icon-mail2:before {
+  content: "\ea84";
+}
+
+.icon-spotify:before {
+  content: "\ea94";
+}
+
+.icon-steam2:before {
+  content: "\eaad";
+}
+
+.icon-github:before {
+  content: "\eab0";
+}
+
+.icon-tux:before {
+  content: "\eabd";
+}
+
+.icon-appleinc:before {
+  content: "\eabe";
+}
+
+.wrapper {
+  grid-area: wrapper;
+  grid-template-columns: 1fr;
+  grid-template-areas: "current" "main" "footer";
+  margin-bottom: 3em;
+
+  .current-site {
+    text-align: center;
+    margin: 1em;
+    background-color: lighten($darkblueColor, 5);
+    border-radius: 10px;
+    grid-area: current;
+
+    h3 {
+      display: inline-block;
+      padding: 0.1em;
+      border-bottom: 2px solid $orangeColor;
+    }
+  }
+
+  .skraduthig {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: $orangeColor;
+
+    &:after {
+      animation: signup_text 5s linear infinite;
+      display: block;
+      content: "Skráðu þig núna!";
+      font-size: 25px;
+    }
+  }
+
+  .main {
+    grid-area: main;
+  }
+
+  footer {
+    @include makeBlock;
+    grid-area: footer;
+    text-align: center;
+    //border-bottom: 1px solid $orangeColor; custom botn á footer
+    .footer-content {
+      margin: 0 auto;
+      @include makeGrid;
+      grid-template-rows: 25% 50% 25%;
+
+      div {
+        margin-left: 2em;
+        margin-right: 2em;
+      }
+
+      .col-1 {
+        font-size: 0.7em;
+
+        ul {
+          padding-left: 0;
+
+          li {
+            @include makeList;
+            padding-bottom: 0.4em;
+            text-align: left;
+            padding-left: 2em;
+            padding-right: 2em;
+
+            a,
+            a:active,
+            a:hover,
+            a:link,
+            a:visited {
+              text-decoration: underline;
+              color: $whiteColor;
+            }
+          }
+        }
+      }
+
+      .col-2 {
+        display: flex;
+        flex-flow: column;
+        font-size: 0.5em;
+        opacity: 0.5;
+        justify-content: flex-end;
+
+        ul {
+          padding-left: 0;
+          text-align: left;
+          margin: 0 auto;
+
+          li {
+            list-style: none;
+          }
+        }
+      }
+
+      .col-3 {
+        .sponsors {
+          display: flex;
+          flex-flow: column;
+          align-items: center;
+
+          img {
+            width: 6em;
+            margin: 0.5em;
+          }
+        }
+      }
+    }
+  }
+  /* Forsíðu stílar */
+  .main-content-65-35 {
+    @include makeGrid;
+    grid-template-columns: 1fr;
+    grid-template-areas: "kynning" "right";
+
+    .main-kynning {
+      grid-area: kynning;
+      @include makeBlock;
+
+      .photo-gallery {
+        margin: 0;
+
+        img {
+          max-width: 100%;
+          height: auto;
+          padding: 0.3em;
+          border-bottom: 1px solid $orangeColor;
+        }
+      }
+    }
+
+    .right {
+      grid-area: right;
+      @include makeBlock;
+      @include makeGrid;
+      grid-template-columns: 45% 55%;
+
+      ul {
+        padding-left: 0;
+      }
+
+      li {
+        @include makeList;
+        margin-right: 2em;
+        margin-left: 2em;
+      }
+    }
+  }
+  /* Bættu við stílum fyrir aðrar síður hér <wrapper><nyttsvaedi></nyttsvaedi></wrapper>*/
+  .main-form {
+    @include makeGrid;
+
+    .main-kynning {
+      @include makeBlock;
+
+      .main-kynning-content {
+        margin: 0 auto;
+        max-width: 37.5em;
+        text-align: center;
+      }
+    }
+
+    .lid {
+      @include makeBlock;
+      /*---Form---*/
+      form {
+        width: 100%;
+        @include makeGrid;
+        grid-template-columns: 100%;
+        grid-template-areas: "form" "form1" "form2" "form3" "form4" "form5";
+      }
+
+      .form {
+        @include makeBlock;
+        grid-area: form;
+        width: 1;
+      }
+
+      .form1 {
+        @include makeBlock;
+        grid-area: form1;
+      }
+
+      .form2 {
+        @include makeBlock;
+        grid-area: form2;
+      }
+
+      .form3 {
+        @include makeBlock;
+        grid-area: form3;
+      }
+
+      .form4 {
+        @include makeBlock;
+        grid-area: form4;
+      }
+
+      .form5 {
+        @include makeBlock;
+        grid-area: form5;
+      }
+
+      fieldset {
+        display: flex;
+        flex-flow: column;
+      }
+
+      form input {
+        padding: 0.5em 1em;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        width: 100%;
+        background-color: #c1c1c1;
+      }
+
+      .dag {
+        display: block;
+        margin-bottom: 1em;
+      }
+
+      .fjoldi {
+        background-color: #c1c1c1;
+      }
+
+      form input[type="texti"] {
+        margin-right: 3em;
+      }
+
+      .aldur5 {
+        margin-bottom: 0.7em;
+      }
+
+      form textarea {
+        width: 100%;
+        background-color: #c1c1c1;
+        font-family: 'Cutive Mono', monospace;
+        font-size: 13px;
+        font-style: italic;
+      }
+
+      form input[type="submit"] {
+        margin-top: 2em;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+      }
+    }
+  }
+
+  .main-content-lid {
+    .list-teams {
+      @include makeGrid;
+      grid-template-columns: 1fr 1fr;
+
+      .team {
+        max-width: 200px;
+        @include makeBlock;
+        display: flex;
+        justify-content: center;
+        flex-flow: column;
+        padding: 0;
+
+        .logo {
+          height: 120px;
+          display: flex;
+          justify-content: center;
+
+          img {
+            width: 100px;
+            padding: 0.5em;
+          }
+        }
+
+        h3 {
+          text-align: center;
+          margin: 0 0 0.7em;
+        }
+
+        .players {
+          //background-color: red;
+          background-color: lighten($darkblueColor, 30%);
+          border-radius: 0 0 10px 10px;
+
+          ul {
+            display: inline;
+
+            li {
+              list-style: none;
+              padding-left: 0;
+              margin: 0 1em 0.5em;
+              text-align: center;
+              border-bottom: 1px solid $orangeColor;
+            }
+          }
+        }
+      }
+    }
+
+    .frag-movie {
+      @include makeBlock;
+      text-align: center;
+
+      h2 {
+        text-decoration: underline;
+      }
+    }
+  }
+  /* Stílar fyrir tímatöflu hér */
+  .main-content-schedule {
+    .brackets {
+      @include makeGrid;
+      grid-template-columns: 1fr; // Verður 1fr 1fr 1fr í mobile
+
+      div {
+        @include makeBlock;
+        text-align: center;
+        max-width: 100%;
+
+        table {
+          border: 1px solid #ccc;
+          border-collapse: collapse;
+          margin: 0;
+          padding: 0;
+          width: 100%;
+          table-layout: fixed;
+          color: #010101;
+        }
+
+        table caption {
+          font-size: 1.5em;
+          margin: 0.5em 0 0.75em;
+        }
+
+        table tr {
+          background: #f8f8f8;
+          border: 1px solid #ddd;
+          padding: 0.35em;
+        }
+
+        table td,
+        table th {
+          padding: 0.625em;
+          text-align: center;
+        }
+
+        table th {
+          font-size: 0.85em;
+          letter-spacing: 0.1em;
+          text-transform: uppercase;
+        }
+
+        tr:nth-child(odd) {
+          background: #ededed;
+        }
+        @media screen and (max-width: 600px) {
+          table {
+            border: 0;
+          }
+
+          table caption {
+            font-size: 1.3em;
+          }
+
+          table thead {
+            border: none;
+            clip: rect(0 0 0 0);
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute;
+            width: 1px;
+          }
+
+          table tr {
+            border-bottom: 3px solid #ddd;
+            display: block;
+            margin-bottom: 0.625em;
+          }
+
+          table td {
+            border-bottom: 1px solid #ddd;
+            display: block;
+            font-size: 0.8em;
+            text-align: right;
+          }
+
+          table td:before {
+            content: attr(data-label);
+            float: left;
+            font-weight: bold;
+            text-transform: uppercase;
+            padding-right: 1em;
+          }
+
+          table td:last-child {
+            border-bottom: 0;
+          }
+        }
+      }
+    }
+  }
+
+  .main-content-midasala {
+    @include makeGrid;
+    @include makeBlock;
+    grid-template-columns: 100%;
+    grid-template-areas: "bronze" "silver""gold"" svid";
+
+    .bronze {
+      grid-area: bronze;
+
+      h1 {
+        color: #cd7f32;
+      }
+
+      .midar {
+        @include midar;
+      }
+
+      .kaupamida {
+        @include midarlinkar;
+
+        a {
+          &:hover {
+            color: #cd7f32;
+          }
+        }
+      }
+    }
+
+    .silver {
+      grid-area: silver;
+
+      h1 {
+        color: #c0c0c0;
+      }
+
+      .midar {
+        @include midar;
+      }
+
+      .kaupamida {
+        @include midarlinkar;
+
+        a {
+          &:hover {
+            color: #c0c0c0;
+          }
+        }
+      }
+    }
+
+    .gold {
+      grid-area: gold;
+
+      h1 {
+        color: #ffd700;
+      }
+
+      .midar {
+        @include midar;
+      }
+
+      .kaupamida {
+        @include midarlinkar;
+
+        a {
+          &:hover {
+            color: #ffd700;
+          }
+        }
+      }
+    }
+
+    .svid {
+      img {
+        align-items: center;
+        width: 100%;
+        grid-area: svid;
+        padding-bottom: 2em;
+      }
+    }
+
+    .map {
+      @include makeBlock;
+      background-color: $darkblueColor;
+
+      .texti {
+        background-color: $darkblueColor;
+      }
+    }
+
+    .mynd {
+      @include makeBlock;
+      background-color: $darkblueColor;
+
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  .main-content-info {
+    @include makeGrid;
+    grid-template-columns: 1fr;
+    grid-template-areas: "logo" "para" "petur" "robert" "mynd";
+
+    .info-logo {
+      grid-area: logo;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      @include makeBlock;
+
+      img {
+        width: 10em;
+        height: 10em;
+        border-radius: 24px;
+        padding: 0.1em;
+        background-color: #f1f1f1;
+      }
+    }
+
+    .info-paragraph {
+      grid-area: para;
+      @include makeBlock;
+    }
+
+    .Petur {
+      grid-area: petur;
+      @include makeBlock;
+
+      .container {
+        display: grid;
+        grid-template-columns: 35% 65%;
+
+        ul {
+          li {
+            @include makeList;
+          }
+        }
+
+        p {
+          margin-left: 3em;
+        }
+      }
+    }
+
+    .Robert {
+      grid-area: robert;
+      @include makeBlock;
+    }
+
+    .mynd-PR {
+      grid-area: mynd;
+
+      .myndabox {
+        text-align: center;
+
+        img {
+          border-bottom: 1px solid $orangeColor;
+          @include makeBlock;
+          margin-bottom: 0;
+        }
+
+        p {
+          margin: -1.6em 0 0;
+          font-size: 10px;
+          opacity: 0.5;
+        }
+      }
+    }
+
+    div {
+      //@include makeBlock;
+    }
+  }
+}
+/* ---Navigation---*/
+.topnav {
+  grid-area: nav;
+
+  input {
+    display: none;
+  }
+
+  input:checked ~ .topmenu {
+    position: fixed;
+    bottom: 2.1em;
+    transition: all 0.5s ease;
+  }
+
+  input:checked + label {
+    border: 3px inset #999;
+    color: $orangeColor;
+  }
+
+  label {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: $orangeColor;
+    background-color: $bluegreyColor;
+    padding: 0.2em;
+    z-index: 999;
+
+    &:before {
+      font-size: 1.5em;
+      content: "☰";
+    }
+  }
+}
+
+.topmenu {
+  //display: grid;
+  //grid-template-columns: 1fr;
+  display: flex;
+  flex-flow: column;
+  position: fixed;
+  bottom: -15em;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 3px;
+  width: 100%;
+  list-style: none;
+  transition: all 0.5s ease;
+  background-color: $greyColor;
+  z-index: 99;
+  opacity: 0.95;
+
+  li {
+    border: 0;
+    padding: 0;
+    border-bottom: $greyColor;
+    margin-left: calc(50% - 3.3em);
+    display: flex;
+    flex-flow: row;
+    align-items: baseline;
+  }
+
+  a {
+    display: block;
+    //text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.25em;
+    color: $whiteColor;
+  }
+}
+
+.active,
+.topmenu a:active,
+.topmenu a:hover {
+  color: darken($orangeColor, 5%) !important;
+  transition: all 0.5s ease;
+}
+/*------from------*/
+form {
+  width: 100%;
+  @include makeGrid;
+  grid-template-columns: 100%;
+  grid-template-areas: "form2" "form3" "form4" "form5" "form" "form1";
+}
+
+.form {
+  @include makeBlock;
+  grid-area: form;
+  width: 1;
+}
+
+.form1 {
+  @include makeBlock;
+  grid-area: form1;
+}
+
+.form2 {
+  @include makeBlock;
+  grid-area: form2;
+}
+
+.form3 {
+  @include makeBlock;
+  grid-area: form3;
+}
+
+.form4 {
+  @include makeBlock;
+  grid-area: form4;
+}
+
+.form5 {
+  @include makeBlock;
+  grid-area: form5;
+}
+
+fieldset {
+  display: flex;
+  flex-flow: column;
+}
+
+form input {
+  padding: 0.5em 1em;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  width: 100%;
+  background-color: #c1c1c1;
+}
+
+.dag {
+  display: block;
+  margin-bottom: 1em;
+}
+
+.fjoldi {
+  background-color: #c1c1c1;
+}
+
+form input[type="submit"] {}
+
+.senda {
+  bottom: 0;
+  border-bottom: 1px solid $orangeColor;
+  margin-bottom: -1px;
+  transition: all 0.5s ease-in-out;
+}
+/* Skráning
+*/
+.signature {
+  text-align: right;
+  color: rgba(204, 204, 204, .3);
+  margin-bottom: -3.5em;
+}
+
+.aridandi {
+  font-size: 1em;
+  text-decoration: underline;
+  font-weight: bolder;
+  color: $orangeColor;
+}
+/*------Viðmið 37.5(600px)-----*/
+@media screen and (min-width: 37.5em) {
+  .current-site h3:before {
+    //content: "Stage 1";
+  }
+
+  .wrapper {
+    .main-content-lid {
+      .list-teams {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+    }
+
+    .main-content-info {
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas: "logo para" "petur robert" "mynd mynd";
+
+      .mynd-PR {
+        //text-align: center;
+      }
+
+      .info-logo {
+        img {
+          width: 200px;
+        }
+      }
+    }
+  }
+}
+/*------Viðmið 48(760px)-----*/
+@media screen and (min-width: 48em) {
+  // Layout
+  body {
+    grid-template-areas: "header" "nav" "wrapper";
+  }
+
+  .wrapper {
+    footer {
+      .footer-content {
+        grid-template-columns: 38% 47% 15%;
+
+        .col-3 {
+          margin: 0 auto;
+
+          .sponsors {
+            display: flex;
+            flex-flow: row;
+            align-items: baseline;
+          }
+        }
+      }
+    }
+
+    .main-content-65-35 {
+      grid-template-columns: 65% 35%;
+      grid-template-areas: "kynning right";
+
+      .right {
+        grid-template-columns: 1fr;
+        //margin-bottom: 13em;
+        //.col-2 {
+        //  padding-bottom: 15em;
+        //}
+      }
+    }
+
+    .main-form {
+      .lid {
+        /*---Form---*/
+        form {
+          width: 100%;
+          grid-template-columns: 50% 50%;
+          grid-template-areas: "form1 form2""form3 form4""form form5 ";
+        }
+
+        .form {
+          @include makeBlock;
+          grid-area: form;
+          width: 1;
+        }
+      }
+    }
+
+    .main-content-midasala {
+      @include makeGrid;
+      @include makeBlock;
+      grid-template-columns: 50% 50%;
+      grid-template-areas: "bronze silver""gold svid";
+
+      .bronze,
+      .gold {
+        margin-right: 1em;
+      }
+
+      .gold {
+        a {
+          &:hover {
+            color: #ffd700;
+          }
+        }
+      }
+
+      .silver {
+        a {
+          &:hover {
+            color: #c0c0c0;
+          }
+        }
+      }
+
+      .bronze {
+        a {
+          &:hover {
+            color: #cd7f32;
+          }
+        }
+      }
+
+      .silver,
+      .svid {
+        margin-left: 1em;
+      }
+
+      .svid {
+        img {
+          position: relative;
+          top: 4em;
+          width: 100%;
+          justify-content: center;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+      }
+    }
+
+    form {
+      width: 100%;
+      grid-template-columns: 50% 50%;
+      grid-template-areas: "form1 form2""form3 form4""form form5 ";
+    }
+
+    .form {
+      @include makeBlock;
+      grid-area: form;
+      width: 1;
+    }
+  }
+
+  .main-content-lid {
+    .list-teams {
+      .team {
+        .players {
+          /* Stíla þetta seinna */
+        }
+      }
+    }
+  }
+  /* ---Navigation---*/
+  .topnav {
+    input,
+    label {
+      display: none;
+    }
+
+    .topmenu {
+      li {
+        margin: auto;
+      }
+    }
+
+    .topmenu,
+    input:checked ~ .topmenu {
+      //display: grid; Var grid
+      //grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+      flex-flow: row nowrap;
+      position: relative;
+      bottom: 0.18em;
+      border-radius: 0 0 5px 5px;
+      transition: none;
+    }
+  }
+
+  .current-site h3:before {
+    //content: "Stage 2";
+  }
+}
+/*------Viðmið 60(960px)------*/
+@media screen and (min-width: 60em) {
+  body {
+    max-width: 60em;
+  }
+
+  .wrapper {
+    .main-content-lid {
+      .list-teams {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+      }
+    }
+  }
+
+  .current-site h3:before {
+    //content: "Stage 3";
+  }
+}

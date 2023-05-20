@@ -1,0 +1,39 @@
+1. Afhverju er getElementById() fljótleglegasta aðferðin?
+  - Því það skilar frá sér DOM element.
+  
+2. Hvað gerir querySelectorAll()? komdu með kóðasýnidæmi ásamt skýringu.
+  - querySelectorAll() aðferðin skilar öllum þáttum í HTML skjalinu sem passar við ákveðni CSS/class-a.
+    Aðferðin tæknilega breytir CSS-skajalinu
+    
+    Dæmi:
+      <h2 class="example">A heading with class="example"</h2>
+      <button onclick="myFunction()">Try it</button> 
+
+      <script>
+      function myFunction() {
+          var x = document.querySelectorAll(".example");
+          x[0].style.backgroundColor = "red";
+      }
+      </script>
+    
+    Dæmið hér fyrir ofan er með string og takka. Þegar þú ýtir á takkan kemur rauður litur bakgrunnur fyrir strenginn. 
+    
+
+3. Hvað er NodeList? Útskýrðu útfrá eftirfarandi kóðasýnidæmi, útskýrðu línu fyrir línu.
+
+    var elements = document.getElementsByTagName('li');
+    if (elements.length > 0) {
+       var el = elements[2];
+       el.className = 'cool';
+    }
+    Nodelist er safn af DOM element-um/nodes.
+    
+    Það sem kóðinn gerir að það nær í öll li í HTML-inu og kíkjir hvort þau eru fleiri en 0, og ef þau eru fleiri en 0 þá verður breytt
+    þriðja li-ið í "cool".
+    
+4. Hvað gerir getElementsByTagName()? Hverju eru skilað? komdu með kóðsýnidæmi.
+  - getElementByTagName aðferðin skilar frá sér öllum element-um í skjalinu með ákveðnum tag nafni.
+  
+5. Hvað er málið með auða hnúta (e. whitespace nodes) og vafra? hvernig leysum við slíkt?
+  - Dæmi um whitespace nodes er þegar þú ert með menu uppi og það kemur svona smá bil fyrir ofan þannig það er bara hvítt.
+    Það er hægt að losa við það er að commenta eða í CSS-inu er önnur leið með að nota margin.
